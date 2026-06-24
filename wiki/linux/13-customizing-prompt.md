@@ -259,4 +259,3 @@ Créalo o no, hay mucho más que se puede hacer con prompts involucrando funcion
 
 - [[wiki/linux/11-el-environment.md|Capítulo 11: El Environment (Entorno) de Linux]]
 - [[wiki/linux/12-vi-editor.md|Capítulo 12: Una Introducción Suave a VI(M)]]
-- [[wiki/linux/comandos-basicos.md|Referencia de Comandos Básicos]]

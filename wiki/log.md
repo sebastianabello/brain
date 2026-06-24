@@ -282,6 +282,73 @@
   - Creado artículo completo con 10+ tablas de referencia, múltiples ejemplos prácticos ejecutables, explicaciones técnicas sobre flujo diff/patch, back references en sed, y modo HTML de aspell
   - Actualizado `wiki/index.md` con entrada del Capítulo 20
 
+## [2026-06-24] lint | Referencias cruzadas corregidas (Cap 1-11)
+
+### Correcciones de Referencias Temáticas
+
+**Problema:** Los capítulos 1-11 tenían referencias mecánicas (solo secuencial anterior/siguiente) sin coherencia temática. Capítulos 6-8 carecían de "Ver También" completamente.
+
+**Solución:** Reconstruidas referencias para reflejar relaciones conceptuales:
+
+| Capítulo | Antes | Después |
+|----------|-------|---------|
+| 1 (Intro shell) | 2 (secuencial) | 5, 8 (comandos, trucos teclado) |
+| 2 (Navegación) | 1, 3 (secuencial) | 3, 4 (explorando, manipulación) |
+| 3 (Explorando) | 2, 4 (secuencial) | 2, 4, 5 (agrega comandos) |
+| 4 (Manipulación) | 3, 5 (secuencial) | 2, 3, 9 (agrega permisos) |
+| 5 (Comandos) | 4, 6 (secuencial) | 1, 6, 7 (completa cadena) |
+| 6 (Redirection) | ∅ | 5, 7 (creado) |
+| 7 (Expansiones) | ∅ | 5, 6 (creado) |
+| 8 (Trucos teclado) | ∅ | 1, 11, 12 (creado) |
+| 9 (Permisos) | 1 (incorrecto) | 2, 4, 10 (corregido) |
+| 10 (Procesos) | 9 (incompleto) | 9, 11 (agrega environment) |
+| 11 (Environment) | 1, 2 (incompleto) | 1, 8, 10 (agrega trucos, procesos) |
+
+**Patrón resultante:** Referencias "hacia temas fundamentales" en lugar de "secuencial", permitiendo navegar por conceptos relacionados.
+
+**Archivos modificados:** 01 a 11
+
+---
+
+## [2026-06-24] lint | 1 problema encontrado, 1 corregido automáticamente
+
+### Problemas Determinísticos (Corregidos Automáticamente): 1
+
+**Enlaces rotos eliminados:**
+- `wiki/linux/comandos-basicos.md` referenciado en 10 artículos pero archivo inexistente
+  - Archivos corregidos: 01, 02, 03, 04, 05, 09, 10, 11, 12, 13
+  - Acción: Eliminadas líneas de referencias en secciones "Ver También"
+
+### Problemas Heurísticos (Reportados): 3
+
+**1. Páginas Huérfanas (no referenciadas por otros artículos):**
+- `10-procesos.md` — Capítulo fundamental, debería ser referenciado por Cap 11-13
+- `13-customizing-prompt.md` — Personalización del shell, relevante a Cap 11
+- `16-redes-networking.md` — Capítulo importante, sin referencias entrantes
+- `18-archivado-backup.md` — Cap relacionado con 17 (búsqueda)
+- `22-impresion.md` — Cap especializado, aislado
+- `23-compilacion.md` — Cap sobre desarrollo, sin conexiones
+- `30-troubleshooting.md` — Capítulo transversal de debugging, ej. referenciable desde múltiples caps de scripting
+- `33-control-flujo-for.md` — Último capítulo (esperado sin referencias posteriores)
+
+**Nota:** Algunos artículos huérfanos son de naturaleza transversal (30) o especializados (22-23). El patrón de referencias existentes prioriza referencias a capítulos anteriores/previos que sirven como fundación.
+
+**2. Oportunidades de mejora en referencias cruzadas:**
+- Capítulo 29 (while/until) no menciona Capítulo 33 (for) como alternativa complementaria para iteración
+- Capítulo 33 (for) podría referenciarse desde Cap 32 (posicionales) cuando discute procesamiento de argumentos
+- Capítulo 30 (troubleshooting) podría enlazarse desde múltiples caps (especialmente 24-29, 32-33)
+
+**3. Consistencia de índice vs archivos:** ✓ VÁLIDA
+- 33 artículos en wiki/linux/ = 33 entradas en index.md
+- Todas las fechas entre 2026-06-22 y 2026-06-23
+- Todas las rutas en index.md existentes
+
+### Resumen
+- Enlaces internos: Todos válidos tras correcciones
+- Cobertura: 33/33 capítulos presentes
+- Referencias cruzadas: Densidad media-baja (0-4 refs por artículo), patrón de referencias "atrás" a capítulos previos
+- Recomendación: Considerar agregar referencias desde Cap 32-33 hacia Cap 30 (troubleshooting) para mayor integración
+
 ---
 
 *Registro append-only de operaciones de ingest, query archivado y lint*

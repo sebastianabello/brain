@@ -197,5 +197,5 @@ En el siguiente capítulo se explorarán más comandos y cómo navegar el sistem
 
 ## Ver También
 
-- [[wiki/linux/02-navegar-sistema-archivos.md|Capítulo 2: Navegación del Sistema de Archivos]]
-- [[wiki/linux/comandos-basicos.md|Referencia de Comandos Básicos]]
+- [[wiki/linux/05-trabajo-con-comandos.md|Capítulo 5: Trabajo con Comandos]] — Profundizar en tipos de comandos, búsqueda y ayuda
+- [[wiki/linux/08-trucos-teclado.md|Capítulo 8: Trucos Avanzados del Teclado]] — Atajos de Readline para edición eficiente

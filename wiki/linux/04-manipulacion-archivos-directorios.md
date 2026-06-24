@@ -538,6 +538,6 @@ Cubrimos mucho terreno aquí, y tomará un tiempo para que todo se asiente compl
 
 ## Ver También
 
-- [[wiki/linux/03-explorando-el-sistema.md|Capítulo 3: Explorando el Sistema]]
-- [[wiki/linux/05-trabajo-con-comandos.md|Capítulo 5: Trabajo con Comandos]]
-- [[wiki/linux/comandos-basicos.md|Referencia de Comandos Básicos]]
+- [[wiki/linux/02-navegacion-sistema-archivos.md|Capítulo 2: Navegación del Sistema de Archivos]] — Rutas y directorios base para manipulación
+- [[wiki/linux/03-explorando-el-sistema.md|Capítulo 3: Explorando el Sistema]] — Entender estructura antes de modificar
+- [[wiki/linux/09-permisos.md|Capítulo 9: Permisos en Linux]] — Control de acceso a archivos modificados

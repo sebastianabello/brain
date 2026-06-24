@@ -426,6 +426,6 @@ En este capítulo, aprendimos una habilidad esencial: editar archivos de configu
 
 ## Ver También
 
-- [[wiki/linux/01-introduccion-shell.md|Capítulo 1: Introducción al Shell de Linux]]
-- [[wiki/linux/02-navegacion-sistema-archivos.md|Capítulo 2: Navegación del Sistema de Archivos]]
-- [[wiki/linux/comandos-basicos.md|Referencia de Comandos Básicos]]
+- [[wiki/linux/01-introduccion-shell.md|Capítulo 1: Introducción al Shell de Linux]] — Fundamentos del shell y línea de comandos
+- [[wiki/linux/08-trucos-teclado.md|Capítulo 8: Trucos Avanzados del Teclado]] — Configuración de Readline en .bashrc
+- [[wiki/linux/10-procesos.md|Capítulo 10: Procesos en Linux]] — Cómo el environment se hereda en procesos hijo

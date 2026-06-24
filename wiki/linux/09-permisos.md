@@ -397,5 +397,6 @@ Los permisos en Linux son fundamentales para la seguridad del sistema:
 
 ## Ver También
 
-- [[wiki/linux/01-introduccion-shell.md|Capítulo 1: Introducción al Shell de Linux]]
-- [[wiki/linux/comandos-basicos.md|Referencia de Comandos Básicos]]
+- [[wiki/linux/02-navegacion-sistema-archivos.md|Capítulo 2: Navegación del Sistema de Archivos]] — Conceptos de rutas para operaciones de permisos
+- [[wiki/linux/04-manipulacion-archivos-directorios.md|Capítulo 4: Manipulación de Archivos y Directorios]] — Operaciones con archivos que requieren permisos
+- [[wiki/linux/10-procesos.md|Capítulo 10: Procesos en Linux]] — Control de procesos con privilegios y cambio de identidad

@@ -652,4 +652,3 @@ Con este conjunto básico de habilidades, ahora podemos realizar la mayoría de 
 
 - [[wiki/linux/11-el-environment.md|Capítulo 11: El Environment (Entorno) de Linux]]
 - [[wiki/linux/08-trucos-teclado.md|Capítulo 8: Trucos Avanzados del Teclado]]
-- [[wiki/linux/comandos-basicos.md|Referencia de Comandos Básicos]]

@@ -294,6 +294,6 @@ Hablaremos más sobre las diferencias entre enlaces simbólicos y hard links en 
 
 ## Ver También
 
-- [[wiki/linux/02-navegacion-sistema-archivos.md|Capítulo 2: Navegación del Sistema de Archivos]]
-- [[wiki/linux/04-manipulacion-de-archivos.md|Capítulo 4: Manipulación de Archivos]]
-- [[wiki/linux/comandos-basicos.md|Referencia de Comandos Básicos]]
+- [[wiki/linux/02-navegacion-sistema-archivos.md|Capítulo 2: Navegación del Sistema de Archivos]] — Estructura básica de directorios y rutas
+- [[wiki/linux/04-manipulacion-archivos-directorios.md|Capítulo 4: Manipulación de Archivos y Directorios]] — Operaciones con archivos y directorios
+- [[wiki/linux/05-trabajo-con-comandos.md|Capítulo 5: Trabajo con Comandos]] — Búsqueda y documentación de comandos disponibles

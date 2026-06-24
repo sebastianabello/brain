@@ -38,5 +38,5 @@
 
 ---
 
-*Última actualización del índice: 2026-06-23*
+*Última actualización del índice: 2026-06-24*
 

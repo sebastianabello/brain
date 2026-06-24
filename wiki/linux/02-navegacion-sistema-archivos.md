@@ -201,5 +201,5 @@ Este capítulo explicó cómo el shell trata la estructura de directorios del si
 
 ## Ver También
 
-- [[wiki/linux/01-introduccion-shell.md|Capítulo 1: Introducción al Shell de Linux]]
-- [[wiki/linux/comandos-basicos.md|Referencia de Comandos Básicos]]
+- [[wiki/linux/03-explorando-el-sistema.md|Capítulo 3: Explorando el Sistema]] — Examinación avanzada de directorios y archivos
+- [[wiki/linux/04-manipulacion-archivos-directorios.md|Capítulo 4: Manipulación de Archivos y Directorios]] — Crear, copiar, mover y eliminar archivos

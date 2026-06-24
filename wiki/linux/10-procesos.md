@@ -434,5 +434,5 @@ Los procesos en Linux son la manera fundamental en que el kernel organiza el tra
 
 ## Ver También
 
-- [[wiki/linux/09-permisos.md|Capítulo 9: Permisos en Linux]]
-- [[wiki/linux/comandos-basicos.md|Referencia de Comandos Básicos]]
+- [[wiki/linux/09-permisos.md|Capítulo 9: Permisos en Linux]] — Identidades de usuario y control de acceso a procesos
+- [[wiki/linux/11-el-environment.md|Capítulo 11: El Environment (Entorno) de Linux]] — Variables de environment heredadas por procesos hijo

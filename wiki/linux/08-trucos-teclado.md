@@ -379,6 +379,14 @@ Consulta la página `man script` para una lista completa de opciones y caracter�
 
 ---
 
+## Ver También
+
+- [[wiki/linux/01-introduccion-shell.md|Capítulo 1: Introducción al Shell de Linux]] — Primer contacto con la línea de comandos
+- [[wiki/linux/11-el-environment.md|Capítulo 11: El Environment (Entorno) de Linux]] — Personalización del environment con .bashrc
+- [[wiki/linux/12-vi-editor.md|Capítulo 12: Una Introducción Suave a VI(M)]] — Editor modal con bindings de Readline habilitables
+
+---
+
 ## Filosofía Final
 
 A medida que pases más tiempo con la línea de comandos, irás adquiriendo más de estos trucos. Para ahora, considéralos opcionales y potencialmente útiles. A medida que te involucres más con la línea de comandos, aprenderás más de estos trucos. Por ahora, considéralos opcionales y potencialmente útiles.

@@ -458,6 +458,13 @@ sleep 10; echo "Time's up $'\a'"
 
 ---
 
+## Ver También
+
+- [[wiki/linux/05-trabajo-con-comandos.md|Capítulo 5: Trabajo con Comandos]] — Conceptos de línea de comandos antes de expansiones
+- [[wiki/linux/06-redirection.md|Capítulo 6: Redirección de Entrada y Salida]] — Cómo el shell procesa redirecciones tras expansiones
+
+---
+
 ## Filosofía de Expansión
 
 La verdadera potencia del shell viene de su capacidad para expandir y transformar texto. Sin una comprensión profunda de cómo funcionan las expansiones, el shell siempre será una fuente de misterio y confusión. Pero una vez que las entiendes, ves que la mayoría de lo que hace el shell es lógico y predecible.

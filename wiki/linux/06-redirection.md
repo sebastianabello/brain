@@ -480,6 +480,13 @@ Esto sobrescribió el programa `less` con el listado de archivos, ¡destruyendo 
 
 ---
 
+## Ver También
+
+- [[wiki/linux/05-trabajo-con-comandos.md|Capítulo 5: Trabajo con Comandos]] — Identificar y documentar comandos a componer
+- [[wiki/linux/07-expansiones.md|Capítulo 7: Expansiones — Cómo el Shell Ve el Mundo]] — Entender cómo el shell procesa los argumentos redirigidos
+
+---
+
 ## Filosofía: Linux es Composición
 
 El verdadero poder de Linux no está en comandos individuales, sino en cómo se pueden **componer** usando redirección y pipelines. Casi todos los comandos de línea de comandos usan entrada/salida estándar y pueden trabajar con casi cualquier otro comando. Esta es la esencia de la filosofía Unix: herramientas pequeñas, especializadas, que hacen una cosa bien y se comunican a través de texto.
