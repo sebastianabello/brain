@@ -351,4 +351,48 @@
 
 ---
 
+## [2026-06-28] ingest | Subject-Verb Agreement (Concordancia Sujeto-Verbo)
+
+- Nuevo artículo creado: `wiki/english/subject-verb-agreement.md`
+- Actualizado: `wiki/index.md` (nueva sección English)
+- Actualizado: `wiki/english/subject-verb-agreement.md` — fusionado `raw/english/Subject-Verb Agreement 2.md`; agregadas secciones: matiz de *none*, *either/neither* + *of* informal, operaciones matemáticas, *more than one*, sustantivos siempre plurales (*glasses/pants/pliers/assets/earnings/thanks*), nombres de equipos deportivos sin *-s*, sujeto positivo vs. negativo
+
+---
+
+## [2026-06-28] ingest | Los Cuatro Tiempos Presentes en Inglés
+
+- Nuevo artículo creado: `wiki/english/verb-tenses/present-tenses.md`
+- Fuentes: cuatro archivos de `raw/english/verb-tenses/present-tenses/` (Presente Simple, Presente Continuo, Presente Perfecto, Presente Perfecto Continuo)
+- Actualizado: `wiki/english/subject-verb-agreement.md` [cascada — sección Ver también actualizada]
+- Actualizado: `wiki/index.md`
+
+---
+
+## [2026-06-28] ingest | Los Cuatro Tiempos Pasados en Inglés
+
+- Nuevo artículo creado: `wiki/english/verb-tenses/past-tenses.md`
+- Fuentes: cuatro archivos de `raw/english/verb-tenses/past-tenses/` (Pasado Simple, Pasado Continuo, Past Perfect, Past Perfect Continuous)
+- Actualizado: `wiki/english/verb-tenses/present-tenses.md` [cascada — sección Ver también actualizada]
+- Actualizado: `wiki/index.md`
+
+---
+
+## [2026-06-28] ingest | Los Tiempos Futuros en Inglés
+
+- Nuevo artículo creado: `wiki/english/verb-tenses/future-tenses.md`
+- Fuentes: cuatro archivos de `raw/english/verb-tenses/future-tenses/` (Will vs going to, Future continuous, Future perfect, Future perfect continuous)
+- Actualizado: `wiki/english/verb-tenses/present-tenses.md` [cascada — sección Ver también actualizada]
+- Actualizado: `wiki/english/verb-tenses/past-tenses.md` [cascada — sección Ver también actualizada]
+- Actualizado: `wiki/index.md`
+
+---
+
+## [2026-06-28] ingest | Paralelismo y Estructura Paralela
+
+- Nuevo artículo creado: `wiki/english/parallel-structure.md`
+- Fuente: `raw/english/Parallel Structure & Parallelism.md`
+- Actualizado: `wiki/index.md`
+
+---
+
 *Registro append-only de operaciones de ingest, query archivado y lint*

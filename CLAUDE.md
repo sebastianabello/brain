@@ -75,6 +75,83 @@ Manual de trabajo del gestor de conocimiento con IA.
 ## [AAAA-MM-DD] lint | <N> problemas encontrados, <M> corregidos automáticamente
 ```
 
+## Formato de entrega (reglas fijas, nunca improvisar)
+
+### Idioma
+
+- **Español por defecto**, independientemente del idioma del material fuente.
+
+### Plantilla de artículo wiki (`wiki/**/*.md`)
+
+Todo artículo generado o actualizado en `wiki/` debe seguir exactamente esta estructura, sin añadir ni quitar bloques:
+
+```markdown
+---
+title: Título del concepto
+tags: [tema, subtema]
+updated: AAAA-MM-DD
+---
+
+# Título del concepto
+
+<cuerpo libre: Claude decide las secciones según el contenido>
+Las citas inline van así: según [^1] o referenciando el texto con superíndice.
+
+## Ver también
+
+- [[wiki/tema/articulo-relacionado.md|Título legible]]
+
+## Fuentes
+
+[^1]: Descripción de la fuente — `raw/<ruta/archivo>`
+```
+
+**Reglas de la plantilla:**
+
+- **Frontmatter YAML**: siempre presente, siempre con los tres campos (`title`, `tags`, `updated`). Los `tags` usan el nombre del directorio padre como primer tag; subtemas adicionales son opcionales. Formato de lista YAML `[tag1, tag2]`, en minúsculas, sin espacios (usar guión: `mi-tema`).
+- **H1**: igual al campo `title` del frontmatter. Solo un H1 por artículo.
+- **Cuerpo**: estructura libre — Claude elige las secciones (`## Concepto`, `## Cómo funciona`, `## Ejemplos`, etc.) según lo que el contenido requiera. No inventar secciones vacías.
+- **Ver también**: obligatorio si existen artículos relacionados en la wiki. Usar wikilinks de Obsidian `[[ruta|Título]]` con ruta relativa al vault. Omitir la sección completa si no hay referencias relevantes.
+- **Fuentes**: siempre presente. Una entrada por fuente, con formato `[^N]: descripción — \`raw/ruta\``. Si el material no vino de `raw/` (ej. conocimiento propio usado como complemento), no se lista como fuente.
+- **Artículo archivado** (Query → "guárdalo"): misma plantilla, pero `tags` incluye `archivado` y el H1 lleva el prefijo `[Archivado]`.
+
+### Respuesta de chat tras un Ingest
+
+Formato fijo, sin variaciones:
+
+```
+✓ raw/<ruta/archivo>
+✓ wiki/<ruta/articulo.md> [creado | actualizado]
+✓ wiki/index.md
+✓ wiki/log.md
+```
+
+- Una línea por archivo tocado, en ese orden.
+- Si hubo cascada, listar también esos archivos con `[cascada]`.
+- Nada más. Sin explicaciones, sin resúmenes del contenido, sin encabezados adicionales.
+
+### Respuesta de chat tras un Query
+
+- Prosa directa, sin secciones ni encabezados.
+- Las citas van inline usando enlaces markdown: `[Título](wiki/tema/articulo.md)`.
+- Si el conocimiento propio de la IA complementa la wiki, integrarlo en la prosa sin distinguirlo visualmente; la wiki siempre es la fuente primaria.
+- Si no hay información relevante en la wiki, decirlo en una sola oración antes de responder con conocimiento propio.
+
+### Respuesta de chat tras un Lint
+
+```
+Lint AAAA-MM-DD — N problemas, M corregidos
+
+Corregidos automáticamente:
+- <descripción breve>
+
+Requieren revisión manual:
+- <descripción breve>
+```
+
+- Si no hay problemas en alguna categoría, omitir esa sección.
+- Sin prosa adicional fuera de esta estructura.
+
 ## Convenciones
 
 - Todos los enlaces internos de la wiki usan **rutas relativas al archivo actual**.
@@ -86,5 +163,5 @@ Manual de trabajo del gestor de conocimiento con IA.
 
 - La profundidad de subdirectorios en wiki es **ilimitada**. `wiki/linux/administracion/permisos.md` es válido.
 - Los nombres de archivos md son **libres**, no se exige el formato `AAAA-MM-DD-slug.md`.
-- Los metadatos Sources/Raw/Updated en el encabezado **no son obligatorios**. Se pueden agregar si se desea.
+- Los metadatos del frontmatter (`title`, `tags`, `updated`) son **obligatorios** en todos los artículos wiki. Ver plantilla en "Formato de entrega".
 - Los archivos en raw (PDF/video/xlsx/imagen) **nunca se renombran**.

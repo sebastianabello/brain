@@ -36,7 +36,15 @@
 - [[wiki/linux/32-parametros-posicionales.md|Parámetros Posicionales]] - Variables `$0`–`$9` (y `${N}` para N>9) para acceder a argumentos de la línea de comandos. `$#` cuenta argumentos. `shift` desplaza parámetros (permite procesar listas largas con un bucle). `basename "$0"` para nombre del programa sin ruta. `$FUNCNAME` dentro de funciones. `"$@"` vs `"$*"`: `"$@"` preserva cada argumento como palabra separada (forma preferida), `"$*"` los une en un string. Dos técnicas para parsear opciones: (1) `while`+`case`+`shift` (soporta opciones largas `--file`, máximo control), (2) builtin `getopts` (menos código, soporta opciones combinadas `-if`); variables `$OPTARG` y `OPTIND`. Aplicación completa `sys_info_page` con opciones `-f file`, `-i` (modo interactivo con confirmación de sobreescritura), `-h`; modo interactivo con `while true`+`read`+`case`; salida a archivo con `touch`+`-f` para verificar escritura. | 2026-06-23
 - [[wiki/linux/33-control-flujo-for.md|Control de Flujo: Bucles con for]] - Comando `for` para procesar secuencias. Forma tradicional: `for variable [in words]; do commands done`; ejemplos: lista explícita (A B C D), brace expansion `{A..D}` o `{1..5}`, pathname expansion `distros*.txt` con verificación `[[ -e "$i" ]]`, command substitution `$(strings "$i")`. Si se omite `in words`, usa parámetros posicionales `$@` implícitamente. Convención de variable `i` viene de Fortran donde I-M eran automáticamente integers. Forma C-style: `for (( expr1; expr2; expr3 )); do commands done` equivalente a `(( expr1 )); while (( expr2 )); do ... (( expr3 )) done`; ideal para contadores numéricos ej. `for (( i=0; i<5; i=i+1 ))`. Aplicación: función `report_home_space()` mejorada con variables locales `format`, `i`, `dir_list`, bucle for sobre directorios, cálculos con find/wc/du, salida formateada con printf. | 2026-06-23
 
+## English
+
+- [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement]] - Reglas completas de concordancia sujeto-verbo en inglés: regla base, tercera persona del singular, verbo *be*, sujetos compuestos, pronombres indefinidos, sustantivos colectivos e incontables, proporciones y casos especiales. | 2026-06-28
+- [[wiki/english/parallel-structure.md|Paralelismo y Estructura Paralela]] - Repetición de la misma forma gramatical en series y pares: palabras, frases y cláusulas paralelas; conjunciones coordinantes y correlativas; listas tras dos puntos; títulos y esquemas. | 2026-06-28
+- [[wiki/english/verb-tenses/present-tenses.md|Los Cuatro Tiempos Presentes en Inglés]] - Presente simple, continuo, perfecto y perfecto continuo: usos, formación, palabras clave, stative verbs y comparativa entre los cuatro tiempos. | 2026-06-28
+- [[wiki/english/verb-tenses/past-tenses.md|Los Cuatro Tiempos Pasados en Inglés]] - Pasado simple, continuo, perfecto y perfecto continuo: usos, estructuras (afirmativa/negativa/interrogativa), verbos irregulares, stative verbs, comparativa entre los cuatro tiempos. | 2026-06-28
+- [[wiki/english/verb-tenses/future-tenses.md|Los Tiempos Futuros en Inglés]] - Will vs going to, future continuous, future perfect y future perfect continuous: usos, estructuras, stative verbs, expresiones de tiempo y comparativa entre los cuatro tiempos. | 2026-06-28
+
 ---
 
-*Última actualización del índice: 2026-06-24*
+*Última actualización del índice: 2026-06-28*
 
