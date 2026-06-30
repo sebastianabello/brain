@@ -387,6 +387,22 @@
 
 ---
 
+## [2026-06-28] ingest | Voz Pasiva (Passive Voice)
+
+- Nuevo artículo creado: `wiki/english/passive-voice.md`
+- Fuente: `raw/english/Passive voice.md`
+- Contenido propio agregado: transformación activa→pasiva, by vs. with, get passive, causativa (have something done), pasiva impersonal con verbos de reporte, pasiva estática vs. dinámica, verbos intransitivos que no admiten pasiva, doble objeto, errores frecuentes TOEFL
+- Actualizado: `wiki/index.md`
+
+---
+
+## [2026-06-28] ingest | Cláusulas Subordinadas
+
+- Actualizado: `wiki/english/subordinate-clause.md` — expansión mayor: tipos sustantiva/adjetiva/adverbial/reducida con tablas de conectores, ejemplos académicos y errores frecuentes TOEFL; sección nueva de reduced clauses y dangling modifiers
+- Actualizado: `wiki/index.md`
+
+---
+
 ## [2026-06-28] ingest | Paralelismo y Estructura Paralela
 
 - Nuevo artículo creado: `wiki/english/parallel-structure.md`
@@ -395,4 +411,70 @@
 
 ---
 
+## [2026-06-29] ingest | Las 8 Partes de la Oración (Parts of Speech)
+
+- Nuevo artículo creado: `wiki/english/parts-of-speech.md`
+- Actualizado: `wiki/index.md`
+
+---
+
+## [2026-06-29] ingest | Pronombre: Concordancia y Referencia
+
+- Nuevo artículo creado: `wiki/english/pronoun-agreement.md`
+- Fuentes: `raw/english/pronoun-agreement/Pronoun Agreement and Reference.md`, `raw/english/pronoun-agreement/Pronoun-antecedent agreement.md`
+- Actualizado: `wiki/english/parts-of-speech.md` [cascada — enlace a pronoun-agreement en Ver también]
+- Actualizado: `wiki/english/subject-verb-agreement.md` [cascada — enlace a pronoun-agreement en Ver también]
+- Actualizado: `wiki/index.md`
+
+## [2026-06-29] ingest | Gerundios e Infinitivos (Gerunds and Infinitives)
+
+- Nuevo artículo creado: `wiki/english/gerunds-and-infinitives.md`
+- Fuentes: `raw/english/gerunds-and-infinitives/Gerund.md`, `raw/english/gerunds-and-infinitives/Casos especiales.md`, `raw/english/gerunds-and-infinitives/Gerunds and Infinitives.md`, `raw/english/gerunds-and-infinitives/What Are Infinitives and How Do You Use Them?.md`
+- Actualizado: `wiki/index.md`
+
+## [2026-06-29] ingest | Conditional Sentences (Oraciones Condicionales)
+
+- Nuevo artículo creado: `wiki/english/conditional-sentences.md`
+- Fuentes: `raw/english/conditional-sentences/conditional sentenses.md`, `raw/english/conditional-sentences/The 4 Types of Conditional Sentences.md`
+- Actualizado: `wiki/english/subordinate-clause.md` [cascada — enlace a conditional-sentences en Ver también]
+- Actualizado: `wiki/english/verb-tenses/future-tenses.md` [cascada — enlace a conditional-sentences en Ver también]
+- Actualizado: `wiki/index.md`
+
+---
+
+## [2026-06-29] ingest | Cláusulas Subordinadas (Reduced Relative Clauses)
+
+- Artículo actualizado (fusión, mismo argumento central): `wiki/english/subordinate-clause.md` — sección "Reducidas" expandida de 4 a 7 técnicas de reducción (omisión de pronombre objeto, gerundio, participio pasado, adjetivo simple, frase adjetiva/preposicional/nominal, infinitivo tras superlativos, adverb clause); se anotó un error de la fuente en sus ejercicios de práctica (reducciones negativas agramaticales con "without").
+- Fuentes: `raw/english/Reduced Relative Clauses/How to Reduce Relative Clauses in English.md`, `raw/english/Reduced Relative Clauses/Types of Reduced Relative Clauses With Examples.md`, `raw/english/Reduced Relative Clauses/reduced clauses.md`
+- Actualizado: `wiki/index.md`
+
+---
+
+## [2026-06-29] ingest | Frases Participiales (Participial Phrases)
+
+- Nuevo artículo creado: `wiki/english/participial-phrases.md`
+- Fuente: `raw/english/Participial Phrases How They Work With Examples.md`
+- Actualizado: `wiki/english/subordinate-clause.md` [cascada — enlace a participial-phrases en Ver también]
+- Actualizado: `wiki/english/gerunds-and-infinitives.md` [cascada — enlace a participial-phrases en Ver también]
+- Actualizado: `wiki/english/passive-voice.md` [cascada — enlace a participial-phrases en Ver también]
+- Actualizado: `wiki/index.md`
+
+---
+
 *Registro append-only de operaciones de ingest, query archivado y lint*
+
+## [2026-06-29] ingest | El Sustantivo (Noun) — Definición y Tipos
+
+- Nuevos artículos creados (subdirectorio `wiki/english/nouns/`):
+  - `wiki/english/nouns/sustantivos.md` (índice/hub del tema)
+  - `wiki/english/nouns/common-proper-nouns.md` (fusión de Common Noun + Proper Noun, definidos por contraste)
+  - `wiki/english/nouns/concrete-abstract-nouns.md` (fusión de Concrete Noun + Abstract Noun, definidos por contraste)
+  - `wiki/english/nouns/countable-uncountable-nouns.md`
+  - `wiki/english/nouns/plural-nouns.md`
+  - `wiki/english/nouns/collective-nouns.md`
+  - `wiki/english/nouns/possessive-nouns.md`
+  - `wiki/english/nouns/appositive-nouns.md`
+- Fuentes: `raw/english/nouns/What Is a Noun?.md`, `What Is a Common Noun?.md`, `What Is a Proper Noun?.md`, `Concrete Noun.md`, `Abstract Noun.md`, `How to Tell if a Noun is Countable or Uncountable.md`, `What Is a Plural Noun?.md`, `What Is a Collective Noun?.md`, `Possessive Noun.md`, `Appositive nouns.md`, `Gerund.md`
+- Actualizado: `wiki/english/gerunds-and-infinitives.md` [fusión — fuente `raw/english/nouns/Gerund.md`: nueva sección "El gerundio como sustantivo" (gerund phrase, gerundio vs. present participle, posesivo antes del gerundio, verbal nouns)]
+- Actualizado: `wiki/english/parts-of-speech.md` [cascada — enlaces a la nueva sección de nouns]
+- Actualizado: `wiki/index.md`

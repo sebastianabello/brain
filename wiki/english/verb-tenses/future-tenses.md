@@ -1,7 +1,7 @@
 ---
 title: Los Tiempos Futuros en Inglés
 tags: [english, verb-tenses]
-updated: 2026-06-28
+updated: 2026-06-29
 ---
 
 # Los Tiempos Futuros en Inglés
@@ -199,6 +199,7 @@ Como todos los tiempos continuos, el futuro perfecto continuo requiere **verbos 
 - [[wiki/english/verb-tenses/past-tenses.md|Los Cuatro Tiempos Pasados en Inglés]]
 - [[wiki/english/verb-tenses/present-tenses.md|Los Cuatro Tiempos Presentes en Inglés]]
 - [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement (Concordancia Sujeto-Verbo)]]
+- [[wiki/english/conditional-sentences.md|Conditional Sentences (Oraciones Condicionales)]]
 
 ## Fuentes
 

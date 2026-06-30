@@ -272,6 +272,7 @@ Los errores de concordancia (concord errors) raramente afectan el significado, p
 ## Ver también
 
 - [[wiki/english/verb-tenses/present-tenses.md|Los Cuatro Tiempos Presentes en Inglés]]
+- [[wiki/english/pronoun-agreement.md|Pronombre: Concordancia y Referencia]]
 
 ## Fuentes
 

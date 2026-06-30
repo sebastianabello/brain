@@ -38,13 +38,28 @@
 
 ## English
 
+- [[wiki/english/parts-of-speech.md|Las 8 Partes de la Oración (Parts of Speech)]] - Las ocho word classes del inglés (noun, pronoun, verb, adjective, adverb, preposition, conjunction, interjection) más determinantes y artículos: definición, subtipos y ejemplos de cada una. | 2026-06-29
+- [[wiki/english/nouns/sustantivos.md|El Sustantivo (Noun) — Definición y Tipos]] - Índice del tema: qué es un sustantivo, su papel como sujeto/objeto, noun phrases, sustantivos vs. pronombres, atributivos, genéricos y enlaces a todos los tipos. | 2026-06-29
+- [[wiki/english/nouns/common-proper-nouns.md|Sustantivos Comunes y Propios]] - Común vs. propio, reglas de mayúsculas, roles/títulos/puntos cardinales que cambian de categoría, conceptos académicos, artículos con propios y adjetivos propios. | 2026-06-29
+- [[wiki/english/nouns/concrete-abstract-nouns.md|Sustantivos Concretos y Abstractos]] - Concreto (perceptible por los sentidos) vs. abstracto (conceptual), ejemplos por categoría, ambigüedad según contexto y sufijos que forman abstractos. | 2026-06-29
+- [[wiki/english/nouns/countable-uncountable-nouns.md|Sustantivos Contables e Incontables]] - Contable vs. incontable (mass nouns), cómo distinguirlos por contexto, singular obligatorio, artículos, partitivos, less/fewer y los casos "research" y "data". | 2026-06-29
+- [[wiki/english/nouns/plural-nouns.md|Sustantivos Plurales]] - Plurales regulares por terminación, irregulares (cambio de vocal, -en, latín/griego, invariables), compuestos, error del apóstrofo, plurale tantum y plural-en-forma/singular-en-construcción. | 2026-06-29
+- [[wiki/english/nouns/collective-nouns.md|Sustantivos Colectivos]] - Sustantivos de grupo, tratamiento singular/plural en US vs. UK English y colectivos específicos para animales (murder, gaggle, parliament…). | 2026-06-29
+- [[wiki/english/nouns/possessive-nouns.md|Sustantivos Posesivos]] - Formación del posesivo ('s / '), usos antes de sustantivo e independiente, posesivo compuesto, posesivo vs. contracción, posesión con "of" y doble posesivo. | 2026-06-29
+- [[wiki/english/nouns/appositive-nouns.md|Sustantivos Apositivos]] - Aposición y su puntuación: restrictivo (sin comas, esencial) vs. no restrictivo (con comas, prescindible), inversión de orden, uso enfático y fórmulas para introducirlo. | 2026-06-29
+- [[wiki/english/pronoun-agreement.md|Pronombre: Concordancia y Referencia (Pronoun Agreement & Reference)]] - Concordancia de número, género y caso (sujeto/objeto/posesivo); who vs. whom; problemas de referencia: ambigua, vaga, débil y pronombre redundante (double subject). | 2026-06-29
 - [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement]] - Reglas completas de concordancia sujeto-verbo en inglés: regla base, tercera persona del singular, verbo *be*, sujetos compuestos, pronombres indefinidos, sustantivos colectivos e incontables, proporciones y casos especiales. | 2026-06-28
 - [[wiki/english/parallel-structure.md|Paralelismo y Estructura Paralela]] - Repetición de la misma forma gramatical en series y pares: palabras, frases y cláusulas paralelas; conjunciones coordinantes y correlativas; listas tras dos puntos; títulos y esquemas. | 2026-06-28
+- [[wiki/english/passive-voice.md|Voz Pasiva (Passive Voice)]] - Formación (to be + pp) para todos los tiempos, usos (receptor, agente desconocido, escritura formal), by vs. with, get passive, causativa (have something done), pasiva impersonal con verbos de reporte, verbos intransitivos, doble objeto y errores frecuentes TOEFL. | 2026-06-28
+- [[wiki/english/subordinate-clause.md|Cláusulas Subordinadas]] - Cláusulas dependientes que no pueden estar solas: tipos (sustantiva, adjetiva, adverbial, reducida), 7 técnicas de reducción de cláusulas (gerundio, participio, adjetivo, frase preposicional/nominal, infinitivo), conectores por función, errores frecuentes TOEFL, dangling modifiers, restrictivas vs. no restrictivas y reglas de coma. | 2026-06-29
 - [[wiki/english/verb-tenses/present-tenses.md|Los Cuatro Tiempos Presentes en Inglés]] - Presente simple, continuo, perfecto y perfecto continuo: usos, formación, palabras clave, stative verbs y comparativa entre los cuatro tiempos. | 2026-06-28
 - [[wiki/english/verb-tenses/past-tenses.md|Los Cuatro Tiempos Pasados en Inglés]] - Pasado simple, continuo, perfecto y perfecto continuo: usos, estructuras (afirmativa/negativa/interrogativa), verbos irregulares, stative verbs, comparativa entre los cuatro tiempos. | 2026-06-28
 - [[wiki/english/verb-tenses/future-tenses.md|Los Tiempos Futuros en Inglés]] - Will vs going to, future continuous, future perfect y future perfect continuous: usos, estructuras, stative verbs, expresiones de tiempo y comparativa entre los cuatro tiempos. | 2026-06-28
+- [[wiki/english/gerunds-and-infinitives.md|Gerundios e Infinitivos (Gerunds and Infinitives)]] - Qué son gerundios e infinitivos, sus funciones gramaticales, tabla de verbos por categoría (solo gerundio, solo infinitivo, ambos con y sin cambio de significado), formas especiales del infinitivo, frases infinitivas y el gerundio como sustantivo (gerund phrase, gerundio vs. present participle, posesivo antes del gerundio, verbal nouns). | 2026-06-29
+- [[wiki/english/conditional-sentences.md|Conditional Sentences (Oraciones Condicionales)]] - Los cuatro tipos de oraciones condicionales (zero, first, second, third), mixed conditionals e inverted conditionals: fórmulas, ejemplos y errores frecuentes en el TOEFL. | 2026-06-29
+- [[wiki/english/participial-phrases.md|Frases Participiales (Participial Phrases)]] - Qué es una frase participial y sus tres tipos (presente, pasado, perfecta); 4 reglas de posición y puntuación; restrictivas vs. no restrictivas; dangling/misplaced modifiers; diferencia con frases de gerundio. | 2026-06-29
 
 ---
 
-*Última actualización del índice: 2026-06-28*
+*Última actualización del índice: 2026-06-29*
 
