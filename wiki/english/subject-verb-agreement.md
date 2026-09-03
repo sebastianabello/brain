@@ -25,6 +25,8 @@ Variantes ortográficas del **-s** de tercera persona:
 
 > El pasado simple y el futuro **no cambian** según número o persona (excepto *be*): *he ran / they ran*, *she will go / they will go*.
 
+> En negativas e interrogativas del presente simple, la concordancia recae en el auxiliar (*do/does*), no en el verbo principal: *She **doesn't** like coffee.* / *They **don't** like coffee.* / *Does she like coffee?*
+
 ## El verbo *be*: la gran excepción
 
 *Be* es el único verbo inglés que cambia según persona **y** número en el presente (y en el pasado):
@@ -265,6 +267,25 @@ El verbo en voz pasiva sigue concordando con lo que actúa como sujeto:
 
 > *The electric bill **is** paid by them online.*
 
+## Modo subjuntivo (subjunctive mood)
+
+El subjuntivo es una excepción deliberada a la concordancia normal: usa el **verbo base** (sin *-s*, incluso con sujeto en tercera persona singular) para expresar algo hipotético, deseado, sugerido o exigido —no un hecho.
+
+### Subjuntivo mandativo (that-clauses)
+
+Tras verbos que expresan **sugerencia, recomendación, exigencia o demanda** (*suggest, recommend, insist, demand, require, request, propose*) y expresiones impersonales de **necesidad o importancia** (*it is essential/important/vital/necessary that*), la cláusula con *that* lleva el verbo en forma base, sin importar el sujeto:
+
+> *I **suggest** that he **be** present at the meeting.* (no *is*)
+> *It is **essential** that she **attend** the seminar.* (no *attends*)
+> *The committee **recommends** that the policy **be** revised.* (no *is revised*)
+> *They **insisted** that he **arrive** on time.* (no *arrives* ni *arrived*, aunque la oración esté en pasado)
+
+> **Trampa TOEFL**: el subjuntivo mandativo no cambia con el tiempo verbal de la oración principal — la cláusula con *that* siempre lleva verbo base, incluso si el verbo introductorio está en pasado.
+
+### Subjuntivo con *were* (hipotético)
+
+Para situaciones hipotéticas o contrafactuales con el verbo *to be*, se usa **were** para todas las personas, incluidas *I* y *he/she/it* — ver [[wiki/english/conditional-sentences.md|Conditional Sentences]] para el desarrollo completo del segundo condicional.
+
 ## Consecuencias de los errores de concordancia
 
 Los errores de concordancia (concord errors) raramente afectan el significado, pero los hablantes nativos los perciben de forma muy negativa y pueden hacer que el texto se perciba como poco fiable. Deben evitarse en la escritura formal.
@@ -275,6 +296,8 @@ Los errores de concordancia (concord errors) raramente afectan el significado, p
 - [[wiki/english/pronoun-agreement.md|Pronombre: Concordancia y Referencia]]
 - [[wiki/english/quantifiers.md|Cuantificadores (Quantifiers)]]
 - [[wiki/english/correlative-conjunctions.md|Conjunciones Correlativas]]
+- [[wiki/english/conditional-sentences.md|Conditional Sentences (Oraciones Condicionales)]]
+- [[wiki/english/adverb-placement.md|Colocación de Adverbios (Adverb Placement)]]
 
 ## Fuentes
 
@@ -282,3 +305,5 @@ Los errores de concordancia (concord errors) raramente afectan el significado, p
 [^2]: Lund University AWELU — "Subject-Verb Agreement" — `raw/english/Subject-Verb agreement.md`
 [^3]: Grammarly Blog — "What Is Subject-Verb Agreement?" — `raw/english/What Is Subject-Verb Agreement?.md`
 [^4]: Guide to Grammar — "Subject-Verb Agreement 2" — `raw/english/Subject-Verb Agreement 2.md`
+[^5]: Language On Schools — "Ejemplos de Subject-Verb Agreement en inglés" — `raw/english/subject-verbs-agreement/Ejemplos Subject-Verb Agreement (Language On Schools).md`
+[^6]: BYJU'S — "Subject Verb Agreement" — `raw/english/subject-verbs-agreement/Subject Verb Agreement (BYJUS).md`

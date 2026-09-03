@@ -19,6 +19,10 @@ Se usan con sustantivos **contables singulares** (ver [[wiki/english/nouns/count
 
 > **Regla clave:** la elección depende del **sonido**, no de la letra escrita. *University* empieza con vocal escrita pero suena /juː/ (consonante "y") → *a university*. *Hour* empieza con consonante escrita pero la "h" es muda → *an hour*.
 
+**Con adjetivos**: si un adjetivo se interpone entre el artículo y el sustantivo, la elección de *a*/*an* depende del sonido del **adjetivo**, no del sustantivo: *a generous man*, pero *an interesting book*.
+
+**Uso distributivo (frecuencia/tasa)**: *a/an* también significa "por" en expresiones de frecuencia o proporción: *twice **a** day*, *once **a** week*, *$20 **an** hour*.
+
 ## Artículo definido: the
 
 Se usa cuando el hablante y el oyente identifican el **mismo referente específico**, por cualquiera de estas razones:
@@ -52,11 +56,15 @@ La mayoría de los nombres propios no llevan artículo, pero hay excepciones sis
 
 | Categoría con "the" | Ejemplo | Categoría sin artículo | Ejemplo |
 |---|---|---|---|
-| Ríos, mares, océanos, cordilleras | *the Amazon, the Pacific, the Andes* | Lagos, montañas individuales | *Lake Michigan, Mount Everest* |
+| Ríos, mares, océanos, cordilleras, canales | *the Amazon, the Pacific, the Andes, the Suez Canal* | Lagos, montañas individuales | *Lake Michigan, Mount Everest* |
 | Países en plural o con estructura de organización | *the United States, the Netherlands, the Philippines* | Países singulares | *Germany, Japan* |
 | Instituciones/organismos con "of" | *the University of Oxford, the Bank of England* | Instituciones nombradas directamente | *Oxford University, Harvard University* |
 | Periódicos | *the New York Times, the Guardian* | Revistas (usualmente) | *Time, Newsweek* |
 | Edificios y museos específicos con nombre descriptivo | *the White House, the Louvre* | — | — |
+| Apellidos en plural (familia como grupo) | *The Smiths are coming for dinner.* | Apellido individual | *Mr. Smith is coming.* |
+| Hoteles y restaurantes con nombre propio | *the Plaza, the Hilton* | — | — |
+| Obras de arte específicas | *the Mona Lisa* | — | — |
+| Organizaciones internacionales | *the United Nations, the World Health Organization* | — | — |
 
 ### Sustantivos incontables con "the"
 
@@ -72,6 +80,20 @@ El superlativo casi siempre requiere "the" — ver [[wiki/english/comparatives-s
 > *This is **the** most efficient method available.*
 
 Excepción: cuando el superlativo va precedido de posesivo, "the" se omite (el posesivo ya cumple la función de definir): *my best friend*, no *my the best friend*.
+
+### Artículos con pronombres posesivos
+
+Un artículo **nunca** se combina con un posesivo (*my, your, his, her, their*): el posesivo ya cumple la función definidora del artículo y lo reemplaza.
+
+| ✗ Incorrecto | ✓ Correcto |
+|---|---|
+| *the my book* | *my book* |
+| *a your car* | *your car* |
+
+### Puntos cardinales
+
+- Con preposición o al referirse a una **región** concreta → *the*: *Look to **the** north.* / ***The** North is cooler than **the** South.*
+- Tras un verbo de movimiento (sin función de región) → sin artículo: *They went **east**.*
 
 ### Instituciones: función genérica vs. lugar físico
 
@@ -131,4 +153,7 @@ La mayoría de los países no llevan artículo; solo los casos memorizados (paí
 
 ## Fuentes
 
-[^1]: Conocimiento general de gramática inglesa aplicado a TOEFL ITP Structure and Written Expression — sin material fuente en `raw/`.
+[^1]: Preply — "English Articles: A Complete Guide" — `raw/english/articles/English Articles - A Complete Guide (Preply).md`
+[^2]: Preply — "Artículos determinados en inglés" — `raw/english/articles/Articulos determinados en ingles (Preply).md`
+[^3]: Preply — "Reglas para usar el artículo THE en inglés" — `raw/english/articles/Reglas para usar THE en ingles (Preply).md`
+[^4]: Preply — "How to Use English Articles" — `raw/english/articles/How to Use English Articles (Preply).md`

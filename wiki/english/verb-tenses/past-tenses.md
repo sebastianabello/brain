@@ -1,7 +1,7 @@
 ---
 title: Los Cuatro Tiempos Pasados en Inglés
 tags: [english, verb-tenses]
-updated: 2026-06-28
+updated: 2026-09-02
 ---
 
 # Los Cuatro Tiempos Pasados en Inglés
@@ -153,6 +153,8 @@ El pasado perfecto es el "pasado del pasado": sitúa una acción **antes** de ot
 - **Confundir con pasado simple:** si solo se habla de una acción pasada sin referencia a otra, usar pasado simple.
 - **Usar *never* en superlativo:** ❌ *It was the most difficult game I had never played.* → ✅ *...I had ever played.*
 
+> **Uso real:** cuando resulta lógicamente obvio cuál de las dos acciones ocurrió primero, es común que los hablantes **simplifiquen el pasado perfecto a pasado simple**, sobre todo en habla informal. El pasado perfecto sigue siendo la forma correcta y más precisa, especialmente en escritura formal y en TOEFL.
+
 ---
 
 ## Pasado Perfecto Continuo (Past Perfect Continuous)
@@ -206,11 +208,36 @@ Los cambios ortográficos del **-ing** siguen las mismas reglas que en el pasado
 
 Esquema típico: *[acción larga en continuo] + when + [interrupción en simple]*
 
+## Usos no temporales del pasado: hipótesis y cortesía
+
+Las formas de pasado no siempre indican tiempo pasado. También se usan para marcar **distancia** —de la realidad (hipótesis) o del interlocutor (cortesía)—:
+
+| Uso | Ejemplo |
+|---|---|
+| Deseos (*wish* + pasado) | *I **wish** it **wasn't** so cold.* |
+| Condicionales hipotéticos (2º condicional) | *If Jack **was** playing, they would probably win.* |
+| Hipótesis sobre el pasado (*wish* + pasado perfecto) | *I **wish** I **hadn't spent** so much money last month.* |
+| Peticiones corteses (pasado continuo) | *I **was wondering** if this was the train for York.* |
+
+Ver [[wiki/english/conditional-sentences.md|Conditional Sentences]] para el desarrollo de las condicionales.
+
+## Cómo se combinan los tiempos pasados en una narración
+
+En un relato extenso no se usa un solo tiempo; cada uno cumple un rol distinto:
+
+- **Presente perfecto** para introducir una experiencia o situación general, sin precisar cuándo: *We've arrived at the hotel.*
+- **Pasado simple** para dar los detalles concretos de esa experiencia: *We arrived at 6 PM and checked in immediately.*
+- **Pasado continuo** para el trasfondo o contexto mientras ocurre la acción principal (en pasado simple): *The sun was shining while we unpacked.*
+- **Pasado perfecto** solo cuando se compara explícitamente con otro evento pasado, para reordenar la cronología: *We had already started the meeting when John arrived.*
+
+Este patrón —presente perfecto para introducir, pasado simple para narrar, continuo para el contexto, perfecto para reordenar— es habitual en textos narrativos y en el *Reading* de TOEFL.
+
 ## Ver también
 
 - [[wiki/english/verb-tenses/present-tenses.md|Los Cuatro Tiempos Presentes en Inglés]]
 - [[wiki/english/verb-tenses/future-tenses.md|Los Tiempos Futuros en Inglés]]
 - [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement (Concordancia Sujeto-Verbo)]]
+- [[wiki/english/conditional-sentences.md|Conditional Sentences (Oraciones Condicionales)]]
 
 ## Fuentes
 
@@ -218,3 +245,5 @@ Esquema típico: *[acción larga en continuo] + when + [interrupción en simple]
 [^2]: Preply — "Pasado continuo en inglés" — `raw/english/verb-tenses/past-tenses/pasado continuo en ingles.md`
 [^3]: British Council México — "Past perfect: estructura, usos y ejemplos" — `raw/english/verb-tenses/past-tenses/Past perfect estructura usos y ejemplos.md`
 [^4]: British Council México — "Past perfect continuous: estructuras y usos" — `raw/english/verb-tenses/past-tenses/Past perfect continuous estructuras y usos.md`
+[^5]: British Council (learnenglish.britishcouncil.org) — "Past tense" — `raw/english/verb-tenses/past-tenses/Past tense (British Council learnenglish).md`
+[^6]: Wall Street English — "The Difference Between English Past Tenses" — `raw/english/verb-tenses/past-tenses/The Difference Between English Past Tenses (Wall Street English).md`

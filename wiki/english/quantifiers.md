@@ -21,6 +21,8 @@ Un **quantifier** indica cantidad de forma imprecisa (a diferencia de los númer
 | *a number of* | ✓ *a number of complaints* | ✗ |
 | *a great deal of* / *a large amount of* | ✗ | ✓ *a great deal of effort* |
 | *several* | ✓ *several options* | ✗ |
+| *a couple of* | ✓ *a couple of books* | ✗ |
+| *a bit of* | ✗ | ✓ *a bit of sugar* |
 | *some / any* | ✓ | ✓ |
 | *a lot of / lots of* | ✓ | ✓ |
 | *plenty of* | ✓ | ✓ |
@@ -87,6 +89,37 @@ Distinción de concordancia verbal (ver también [[wiki/english/pronoun-agreemen
 | *a number of* + plural | Verbo plural | *A number of employees **are** unhappy.* |
 | *the number of* + plural | Verbo singular (el sujeto real es "the number") | *The number of employees **is** increasing.* |
 
+## Formas coloquiales
+
+Además de las formas neutras, existen variantes informales de uso frecuente en el habla:
+
+| Con ambos tipos | Solo contables |
+|---|---|
+| *plenty of, loads of, tons of, heaps of, a load of* | *a couple of, hundreds of, thousands of* |
+
+> Se recomienda evitarlas en escritura formal/académica; en TOEFL Written Expression se prefieren las formas neutras (*many, much, a lot of*).
+
+## Every / each
+
+Ambos significan "todos" y se usan con sustantivo **singular**, sin determinante adicional: ***Every** shop was decorated.* (no *the every shop*). Ver la diferencia de matiz y concordancia entre *each* y *every* en [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement]].
+
+## Both / either / neither
+
+Se usan para hablar de **dos** personas o cosas, y cada uno exige una concordancia verbal distinta:
+
+| Cuantificador | Concordancia | Ejemplo |
+|---|---|---|
+| *both* | Verbo plural | *Both the supermarkets **were** closed.* |
+| *either* | Verbo singular | *Either supermarket **is** fine.* |
+| *neither* | Verbo singular | *Neither of the supermarkets **was** open.* |
+
+## Grupo general vs. grupo específico
+
+Cuando el cuantificador (*few, many, some*…) se refiere a un grupo **general**, no lleva *of the*; cuando se refiere a un grupo **específico** ya delimitado, sí lo requiere:
+
+> ***Few** snakes are dangerous.* (afirmación general sobre las serpientes)
+> ***Few of the** snakes in this zoo are dangerous.* (grupo específico: las serpientes de este zoológico)
+
 ## Errores frecuentes (TOEFL)
 
 *many/much con el tipo de sustantivo equivocado:*
@@ -136,4 +169,5 @@ Sin "a", *little* connota "casi no hay tiempo" (negativo), lo cual contradice el
 
 ## Fuentes
 
-[^1]: Conocimiento general de gramática inglesa aplicado a TOEFL ITP Structure and Written Expression — sin material fuente en `raw/`.
+[^1]: Preply — "English Quantifiers" — `raw/english/quantifiers/English Quantifiers (Preply).md`
+[^2]: British Council (learnenglish.britishcouncil.org) — "Quantifiers" — `raw/english/quantifiers/Quantifiers (British Council).md`

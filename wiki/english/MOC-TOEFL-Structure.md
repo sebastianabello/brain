@@ -21,8 +21,8 @@ updated: 2026-09-02
 - [ ] 2.1 [[quantifiers]]
 - [ ] 2.2 [[comparatives-superlatives]]
 - [ ] 2.3 [[adjective-adverb-confusion]]
-- [ ] 2.4 Orden de adjetivos (opcional, pendiente de crear)
-- [ ] 2.5 Colocación de adverbios (opcional, pendiente de crear)
+- [ ] 2.4 [[adjective-order]]
+- [ ] 2.5 [[adverb-placement]]
 
 ## 3. Verbos avanzados
 - [ ] 3.1 [[modal-verbs]]

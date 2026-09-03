@@ -1,12 +1,12 @@
 ---
 title: Los Tiempos Futuros en Inglés
 tags: [english, verb-tenses]
-updated: 2026-06-29
+updated: 2026-09-02
 ---
 
 # Los Tiempos Futuros en Inglés
 
-El inglés tiene varias formas de expresar el futuro. Las cuatro principales son: **futuro simple** (con *will* o *going to*), **futuro continuo**, **futuro perfecto** y **futuro perfecto continuo**. Cada una enfatiza un aspecto diferente: la intención, la acción en desarrollo, la conclusión o la duración antes de un punto futuro.
+El inglés tiene varias formas de expresar el futuro. Las cuatro principales son: **futuro simple** (con *will* o *going to*), **futuro continuo**, **futuro perfecto** y **futuro perfecto continuo**. Cada una enfatiza un aspecto diferente: la intención, la acción en desarrollo, la conclusión o la duración antes de un punto futuro. Además, el inglés recurre a otros tiempos y verbos modales —presente simple, presente continuo, *shall*, *may/might/could*, *should*— para hablar del futuro con matices distintos (ver "Otras formas de expresar el futuro" más abajo).
 
 ---
 
@@ -22,8 +22,14 @@ Ambas formas expresan el futuro, pero su elección depende de si la situación e
 | Promesa u ofrecimiento | *I promise I will always love you.* |
 | Predicción basada en opinión (sin evidencia) | *I think it will rain tomorrow.* |
 | Primer condicional (*if* + presente simple) | *If you call her now, she will pick up.* |
+| Voluntad o disposición a hacer algo | *George says he **will help** us.* |
+| Petición | ***Will** you tell Henry I called?* |
+| Amenaza | *If you do that again, I**'ll** tell Mum.* |
+| Hecho futuro | *I'll be back later tonight.* |
 
 *Will* se contrae normalmente como **'ll**: *I'll, she'll, they'll*.
+
+**Shall** puede sustituir a *will* con *I/we*, en registro más formal (*We **shall** never forget this day*), y es habitual en preguntas para hacer ofertas, sugerencias o pedir consejo: ***Shall** I carry these bags for you?* / ***Shall** I open the window?*
 
 ### Cuándo usar *going to*
 
@@ -34,6 +40,8 @@ Ambas formas expresan el futuro, pero su elección depende de si la situación e
 | Intención firme | *I'm going to buy this car even if I have to work extra hours.* |
 
 *Going to* tiene forma contracta informal: **gonna** (solo inglés hablado, no formal).
+
+> Se evita la construcción *"going to go"*: con verbos de movimiento como *go*, se prefiere el presente continuo. ❌ *I'm going to go to the cinema.* → ✅ *I'm going to the cinema.*
 
 ### Cuándo son intercambiables
 
@@ -61,6 +69,30 @@ Cuando se expresa una predicción general sin evidencia clara, ambas formas son 
 
 ---
 
+## Otras formas de expresar el futuro
+
+Además de *will* y *going to*, el inglés usa otros tiempos y verbos modales según el matiz que se quiera dar:
+
+| Forma | Uso | Ejemplo |
+|---|---|---|
+| **Presente simple** | Horarios y eventos programados (trenes, clases, vuelos) | *The train **arrives** at 6:30 tomorrow.* / *The holidays **start** next week.* |
+| **Presente continuo** | Planes o arreglos ya acordados, normalmente con otra persona | *I**'m playing** football tomorrow.* / *They**'re coming** to see us tomorrow.* |
+| **May / might / could** | Incertidumbre sobre el futuro | *I **might stay** at home tonight or I **might go** to the cinema.* |
+| **Should** | Buena probabilidad (no certeza) | *We **should be** home in time for tea.* |
+
+**Presente continuo vs. *going to*:** ambos expresan planes, pero el presente continuo enfatiza un **arreglo con otra persona** (acuerdo mutuo), mientras que *going to* expresa una **intención personal** sin necesidad de que otros estén involucrados.
+
+### Regla crítica: cláusulas temporales y condicionales
+
+En cláusulas introducidas por *when, after, until, before, as soon as* o *if*, se usa **presente** (nunca *will*) para referirse al futuro — el futuro ya queda marcado por la cláusula principal:
+
+- ❌ *I'll come home when I **will finish** work.* → ✅ *I'll come home **when I finish** work.*
+- ❌ *We won't be able to go out if it **will rain**.* → ✅ *We won't be able to go out **if it rains**.*
+
+Es uno de los errores más frecuentes en TOEFL. Ver [[wiki/english/conditional-sentences.md|Conditional Sentences]] para el primer condicional y [[wiki/english/subordinate-clause.md|Cláusulas Subordinadas]] para las cláusulas adverbiales de tiempo.
+
+---
+
 ## Future Continuous (Futuro Continuo)
 
 El futuro continuo describe una acción que **estará en progreso** en un momento específico del futuro. También puede expresarse con *be going to be + verbo-ing*, aunque con matiz ligeramente distinto (predicción del futuro cercano basada en el presente).
@@ -75,6 +107,7 @@ El futuro continuo describe una acción que **estará en progreso** en un moment
 | Acción que comienza ahora y continuará en el futuro | *She will be writing jokes for a good while.* |
 | Dos acciones paralelas en el futuro | *He will be studying and eating at the same time.* |
 | Pregunta cortés sobre un suceso futuro | *Will Jessica be watching a movie with us this weekend?* |
+| Predicción o suposición sobre algo que ocurre **ahora** (no en el futuro) | *She'll be getting married right now, I imagine.* |
 
 > El futuro continuo especifica **cuándo** ocurrirá la acción; el futuro simple no.
 > Al igual que otros tiempos continuos, **no se usa con stative verbs** (*know, seem, have* en sentido de posesión, etc.) — usar el futuro simple en su lugar.
@@ -128,6 +161,7 @@ El futuro perfecto expresa acciones que **habrán concluido** antes de un moment
 | *By (hora/día/mes/año)* | Para / Hacia | *They will have worked there one year by next Monday.* |
 | *By now / By then* | Ya / Para entonces | *I will have retired by then.* |
 | *Before / not… until* | Antes / No… hasta | *You won't have repaired my laptop before my presentation.* |
+| *In / in two weeks' time / in three months' time* | Al final de ese período | *In three years' time, I will have completed my degree.* |
 
 ### Estructura
 
@@ -200,6 +234,7 @@ Como todos los tiempos continuos, el futuro perfecto continuo requiere **verbos 
 - [[wiki/english/verb-tenses/present-tenses.md|Los Cuatro Tiempos Presentes en Inglés]]
 - [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement (Concordancia Sujeto-Verbo)]]
 - [[wiki/english/conditional-sentences.md|Conditional Sentences (Oraciones Condicionales)]]
+- [[wiki/english/subordinate-clause.md|Cláusulas Subordinadas]]
 
 ## Fuentes
 
@@ -207,3 +242,6 @@ Como todos los tiempos continuos, el futuro perfecto continuo requiere **verbos 
 [^2]: British Council México — "Future continuous del inglés: usos y estructuras" — `raw/english/verb-tenses/future-tenses/Future continuous del inglés.md`
 [^3]: British Council México — "Future perfect: estructura, usos y expresiones comunes" — `raw/english/verb-tenses/future-tenses/Future perfect.md`
 [^4]: British Council México — "Future perfect continuous: estructuras y usos" — `raw/english/verb-tenses/future-tenses/Future perfect continuous.md`
+[^5]: British Council (learnenglish.britishcouncil.org) — "Talking about the future" — `raw/english/verb-tenses/future-tenses/Talking about the future (British Council).md`
+[^6]: British Council Teens (learnenglishteens.britishcouncil.org) — "Future forms" — `raw/english/verb-tenses/future-tenses/Future forms (British Council Teens).md`
+[^7]: Oxford House Barcelona — "4 Future Tenses In English And How To Use Them" — `raw/english/verb-tenses/future-tenses/4 Future Tenses (Oxford House).md`

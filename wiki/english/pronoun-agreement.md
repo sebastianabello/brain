@@ -1,7 +1,7 @@
 ---
 title: Pronombre: Concordancia y Referencia (Pronoun Agreement & Reference)
 tags: [english, gramática]
-updated: 2026-06-29
+updated: 2026-09-02
 ---
 
 # Pronombre: Concordancia y Referencia (Pronoun Agreement & Reference)
@@ -46,6 +46,21 @@ Cuando los miembros actúan individualmente → pronombre plural:
 Usar siempre pronombre plural:
 
 > The *owner and the manager* of the business quickly made **their** fortunes.
+
+**Excepción — *each*/*every* distribuyendo sobre ambos**: si *each* o *every* precede a los dos sustantivos unidos por *and*, el pronombre sigue siendo **singular**, porque *each*/*every* fuerza a tratar los elementos uno por uno:
+
+> *Each* butterfly and bee drank **its** fill. ✓ *(no "their", pese al "and")*
+
+### Correlative conjunctions y pronombres indefinidos de número variable
+
+Con *not only…but also* (además de *neither…nor* y *either…or*), el pronombre concuerda con el antecedente más cercano:
+
+> *Not only* the coach *but also* the players expressed **their** disappointment.
+
+Un grupo distinto de indefinidos (*all, any, none, some, most, more*) no es fijo en número: toman el número del sustantivo dentro de la frase preposicional (*of + sustantivo*) que los sigue.
+
+> *Some* of this **footwear** smells; **it** needs to be thrown out. *(incontable → singular)*
+> *Some* of these **shoes** smell; **they** need to be thrown out. *(contable plural → plural)*
 
 ## Concordancia de género
 
@@ -172,3 +187,5 @@ Por cada pronombre en la oración, pregúntate: *"¿A qué sustantivo específic
 
 [^1]: Trent University Academic Skills — "Pronoun Agreement and Reference" — `raw/english/pronoun-agreement/Pronoun Agreement and Reference.md`
 [^2]: Notas personales TOEFL — "Pronoun-antecedent agreement" — `raw/english/pronoun-agreement/Pronoun-antecedent agreement.md`
+[^3]: ChompChomp — "Pronoun-Antecedent Agreement" — `raw/english/pronoun-agreement/Pronoun-Antecedent Agreement (ChompChomp).md`
+[^4]: Dalton State College Library — "Pronoun/Antecedent Agreement" — `raw/english/pronoun-agreement/Pronoun-Antecedent Agreement (Dalton State).md`

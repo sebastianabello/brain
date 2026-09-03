@@ -56,7 +56,27 @@ Después de *than*, el pronombre debe ir en caso sujeto si hay un verbo implíci
 > *My sister is taller than **I** [am].* ✓ (formal)
 > *My sister is taller than **me**.* (aceptado en registro informal, pero el TOEFL premia la forma formal)
 
+## Adjetivos sin grado comparativo/superlativo
+
+Ciertos adjetivos describen cualidades **absolutas** que, por definición, no admiten grados: algo es o no es así, sin términos medios. Tradicionalmente **no** se combinan con *more/most* ni con *-er/-est*: *unique, perfect, dead, impossible, infinite, complete, empty, full*.
+
+> ❌ *This is the **most unique** restaurant in town.* → ✅ *This is a **unique** restaurant in town.* / *This is the **most distinctive** restaurant in town.*
+
+En uso coloquial moderno esta regla se relaja con frecuencia (*"more perfect", "most unique"*), pero en escritura formal y en TOEFL se espera respetar la distinción.
+
+## Superlativo "absoluto" (sin comparación real)
+
+*Most* + adjetivo puede usarse de forma enfática, sin comparar realmente con otros elementos del grupo, para significar simplemente "muy": ***Most** interesting book* puede leerse como "un libro sumamente interesante" en vez de "el libro más interesante de todos". El contexto y la ausencia de "the" suelen distinguir este uso del superlativo comparativo propiamente dicho.
+
 ## Errores frecuentes (TOEFL)
+
+*Comparación introducida con "from" en vez de "than":*
+
+| ✗ Incorrecto | ✓ Correcto |
+|---|---|
+| *This laptop is **bigger from** yours.* | *This laptop is **bigger than** yours.* |
+
+Las comparaciones en inglés siempre se introducen con *than*, nunca con *from* — un calco frecuente desde otros idiomas.
 
 *Doble comparativo (more + -er):*
 
@@ -111,7 +131,10 @@ Cuando se combinan dos estructuras comparativas en una misma oración (*as...as*
 - [[wiki/english/pronoun-agreement.md|Pronombre: Concordancia y Referencia]]
 - [[wiki/english/parallel-structure.md|Paralelismo y Estructura Paralela]]
 - [[wiki/english/parts-of-speech.md|Las 8 Partes de la Oración (Parts of Speech)]]
+- [[wiki/english/adjective-order.md|Orden de los Adjetivos (Adjective Order)]]
 
 ## Fuentes
 
-[^1]: Conocimiento general de gramática inglesa aplicado a TOEFL ITP Structure and Written Expression — sin material fuente en `raw/`.
+[^1]: Preply — "Comparative Adjectives" — `raw/english/comparatives-superlatives/Comparative Adjectives (Preply).md`
+[^2]: Preply — "Superlative Adjectives" — `raw/english/comparatives-superlatives/Superlative Adjectives (Preply).md`
+[^3]: Preply — "Comparative and Superlative Adjectives" — `raw/english/comparatives-superlatives/Comparative and Superlative Adjectives (Preply).md`

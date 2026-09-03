@@ -1,12 +1,14 @@
 ---
 title: Los Cuatro Tiempos Presentes en Inglés
 tags: [english, verb-tenses]
-updated: 2026-06-28
+updated: 2026-09-02
 ---
 
 # Los Cuatro Tiempos Presentes en Inglés
 
 El inglés tiene cuatro tiempos verbales para hablar del presente, cada uno con un énfasis distinto: **el hecho en sí** (simple), **la acción en curso** (continuo), **el vínculo con el presente** (perfecto) o **la duración de algo que aún continúa** (perfecto continuo). Entender qué distingue a cada uno es fundamental para comunicarse con precisión.
+
+> **Nota técnica**: en sentido estricto, el inglés solo tiene dos *tenses* verdaderos —presente y pasado— porque son los únicos que modifican la forma base del verbo. Estructuras como *will + verbo* son *future forms*, no un tiempo verbal propiamente dicho, aunque por convención se les llame "future tense".
 
 ---
 
@@ -22,6 +24,10 @@ El inglés tiene cuatro tiempos verbales para hablar del presente, cada uno con 
 | Dichos y proverbios | *Practice makes perfect.* |
 
 Si la acción ocurre todos los días, constantemente o regularmente, o si se trata de un hecho conocido, usa el presente simple.
+
+**Matiz — hecho puro vs. proceso en evolución**: cuando se describe una tendencia como un proceso que avanza (no solo un hecho estático), se prefiere el continuo: *More and more people **are getting** divorced every year* (proceso en evolución) vs. *More and more people **get** divorced* (solo el hecho).
+
+**Auxiliar "do" enfático**: *do/does* puede añadirse al presente simple para dar énfasis, sin cambiar el tiempo verbal: *I **do** drink coffee* (enfatiza que sí, contra lo que se pudiera pensar).
 
 ### Cómo se forma
 
@@ -54,6 +60,13 @@ Variantes ortográficas de la **-s** de 3.ª persona:
 
 *always, usually, often, sometimes, rarely, never, every day/week/year, on Mondays…*
 
+### Usos narrativos
+
+El presente simple también se usa para narrar de forma vívida hechos pasados (**presente narrativo** o *narrative present*) y para resumir o parafrasear el contenido de un libro, película o algo leído/escuchado, manteniendo su vitalidad:
+
+> *Well, it's a lovely day and I'm just walking down the street when I **see** this funny guy.* (narración vívida de algo pasado)
+> *Rebus **lives** in Edinburgh and he's a brilliant detective.* (resumen de una trama)
+
 ---
 
 ## Presente Continuo (Present Continuous / Present Progressive)
@@ -65,6 +78,7 @@ Variantes ortográficas de la **-s** de 3.ª persona:
 | Acción que ocurre en el momento de hablar | *She is eating breakfast right now.* |
 | Acción temporal (no permanente) | *I am living with my parents until I find an apartment.* |
 | Plan o intención para el futuro cercano | *We are meeting our friends this weekend.* |
+| Queja o énfasis con *always/forever/constantly* | *You **are always leaving** your socks on the floor!* |
 
 ### Cómo se forma
 
@@ -120,6 +134,7 @@ El presente perfecto conecta el pasado con el presente. **No indica** cuándo oc
 | Acción repetida varias veces | *I have visited Rome three times.* |
 | Acción que empezó en el pasado y continúa | *They have known each other for 3 years.* |
 | Periodo de tiempo aún no terminado | *Ellie has written 20 articles this month.* |
+| Cláusula temporal de futuro (completitud antes de otra acción futura) | *I'll come home as soon as I **have finished** work.* |
 
 ### Cómo se forma
 
@@ -182,6 +197,8 @@ Describe acciones o condiciones que **comenzaron en el pasado** y aún continúa
 
 Los cambios ortográficos del **-ing** son los mismos que en el presente continuo (ver tabla anterior).
 
+> Con verbos como *live* y *work*, el presente perfecto simple y el continuo son intercambiables sin cambio de significado: *I've lived here for 3 years* ≈ *I've been living here for 3 years*.
+
 ### Palabras clave
 
 | Palabra/frase | Cuándo usarla | Ejemplo |
@@ -238,6 +255,7 @@ Los mismos verbos de estado que no se usan en presente continuo tampoco funciona
 - [[wiki/english/verb-tenses/past-tenses.md|Los Cuatro Tiempos Pasados en Inglés]]
 - [[wiki/english/verb-tenses/future-tenses.md|Los Tiempos Futuros en Inglés]]
 - [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement (Concordancia Sujeto-Verbo)]]
+- [[wiki/english/conditional-sentences.md|Conditional Sentences (Oraciones Condicionales)]]
 
 ## Fuentes
 
@@ -245,3 +263,5 @@ Los mismos verbos de estado que no se usan en presente continuo tampoco funciona
 [^2]: Preply — "El presente continuo en inglés" — `raw/english/verb-tenses/present-tenses/El presente continuo en ingles.md`
 [^3]: Preply — "El presente perfecto en inglés" — `raw/english/verb-tenses/present-tenses/presente perfecto en inglés.md`
 [^4]: Preply — "El presente perfecto continuo en inglés" — `raw/english/verb-tenses/present-tenses/Presente perfecto continuo en inglés.md`
+[^5]: British Council — "Present tense" — `raw/english/verb-tenses/present-tenses/Present tense (British Council).md`
+[^6]: Oxford House Barcelona — "What Are The 4 Present Tenses In English" — `raw/english/verb-tenses/present-tenses/What Are The 4 Present Tenses (Oxford House).md`

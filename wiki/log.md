@@ -500,3 +500,71 @@
 - Actualizado: `wiki/english/conditional-sentences.md` [cascada — enlace a inversion en Ver también]
 - Actualizado: `wiki/english/subject-verb-agreement.md` [cascada — enlaces a quantifiers y correlative-conjunctions en Ver también]
 - Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Las 8 Partes de la Oración (Parts of Speech)
+
+- Actualizado: `wiki/english/inversion.md` [cascada — enlace a parts-of-speech en Ver también]
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | El Sustantivo (Noun) — Definición y Tipos
+
+- Nuevo artículo creado: `wiki/english/nouns/compound-nouns.md`
+- Actualizado: `wiki/english/nouns/common-proper-nouns.md` [cascada — excepción de las estaciones del año]
+- Actualizado: `wiki/english/nouns/plural-nouns.md` [cascada — enlace a compound-nouns]
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Pronombre: Concordancia y Referencia (Pronoun Agreement & Reference)
+
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Artículos (Articles)
+
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Los Cuatro Tiempos Presentes en Inglés
+
+- Actualizado: `wiki/english/conditional-sentences.md` [cascada — enlace a present-tenses en Ver también]
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Los Cuatro Tiempos Pasados en Inglés
+
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Los Tiempos Futuros en Inglés
+
+- Actualizado: `wiki/english/subordinate-clause.md` [cascada — enlace a future-tenses en Ver también]
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Subject-Verb Agreement (Concordancia Sujeto-Verbo)
+
+- Actualizado: `wiki/english/conditional-sentences.md` [cascada — enlace a subject-verb-agreement en Ver también]
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Cuantificadores (Quantifiers)
+
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Comparativos y Superlativos (Comparatives and Superlatives)
+
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Confusión Adjetivo/Adverbio (Adjective vs. Adverb Confusion)
+
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Orden de los Adjetivos (Adjective Order)
+
+- Actualizado: `wiki/english/parts-of-speech.md` [cascada — enlace a adjective-order en Ver también y sección Adjective]
+- Actualizado: `wiki/english/comparatives-superlatives.md` [cascada — enlace a adjective-order en Ver también]
+- Actualizado: `wiki/english/adjective-adverb-confusion.md` [cascada — enlace a adjective-order en Ver también]
+- Actualizado: `wiki/english/MOC-TOEFL-Structure.md` (2.4 marcado como creado)
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Colocación de Adverbios (Adverb Placement)
+
+- Actualizado: `wiki/english/adjective-adverb-confusion.md` [cascada — enlace a adverb-placement en Ver también]
+- Actualizado: `wiki/english/adjective-order.md` [cascada — enlace a adverb-placement en Ver también]
+- Actualizado: `wiki/english/parts-of-speech.md` [cascada — enlace a adverb-placement en Ver también]
+- Actualizado: `wiki/english/subject-verb-agreement.md` [cascada — enlace a adverb-placement en Ver también]
+- Actualizado: `wiki/english/MOC-TOEFL-Structure.md` (2.5 marcado como creado — bloque 2 "Modificadores" completo)
+- Actualizado: `wiki/index.md`

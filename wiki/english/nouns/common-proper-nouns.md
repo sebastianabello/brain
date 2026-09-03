@@ -28,6 +28,8 @@ Muchos sustantivos comunes se vuelven **propios** (y ganan mayúscula) cuando se
 
 > **Casos inversos:** conceptos importantes a veces se capitalizan en contextos literarios para enfatizarlos (*Nature*, *Truth*). Y algunos sustantivos propios se vuelven tan genéricos que pasan a comunes: *thermos* fue una marca (capitalizada) y hoy designa cualquier termo.
 
+> **Excepción — estaciones del año:** a diferencia de los días de la semana y los meses (siempre propios, con mayúscula), los nombres de las estaciones (*spring*, *summer*, *fall*/*autumn*, *winter*) **no se capitalizan** en inglés.
+
 ## Conceptos académicos: normalmente comunes
 
 Un error frecuente es asumir que conceptos, teorías, modelos y marcos son sustantivos propios y capitalizarlos. En realidad **suelen ser comunes**, aunque pueden incluir nombres o adjetivos propios (que sí van en mayúscula).

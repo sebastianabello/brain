@@ -1,7 +1,7 @@
 ---
 title: Sustantivos Plurales (Plural Nouns)
 tags: [nouns, english, grammar]
-updated: 2026-06-29
+updated: 2026-09-02
 ---
 
 # Sustantivos Plurales (Plural Nouns)
@@ -37,7 +37,7 @@ Restos de formas antiguas del inglés o préstamos de otros idiomas. Son pocos, 
 
 ## Plurales de sustantivos compuestos
 
-Para pluralizar un compuesto, se pluraliza la palabra que es el **"núcleo"** (head): la cosa representada, que las demás modifican.
+Para pluralizar un [[wiki/english/nouns/compound-nouns.md|compuesto]], se pluraliza la palabra que es el **"núcleo"** (head): la cosa representada, que las demás modifican.
 
 - Núcleo al final → *high **schools*** (muchas escuelas, no muchos *highs*).
 - Núcleo antes → ***heads** of state*.
@@ -67,6 +67,7 @@ Los [sustantivos incontables](wiki/english/nouns/countable-uncountable-nouns.md)
 - [[wiki/english/nouns/sustantivos.md|El Sustantivo (Noun) — Definición y Tipos]]
 - [[wiki/english/nouns/countable-uncountable-nouns.md|Sustantivos contables e incontables]]
 - [[wiki/english/nouns/possessive-nouns.md|Sustantivos posesivos]]
+- [[wiki/english/nouns/compound-nouns.md|Sustantivos compuestos]]
 - [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement]]
 
 ## Fuentes

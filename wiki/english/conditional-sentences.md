@@ -109,7 +109,9 @@ Estructura más formal, propia de inglés escrito y situaciones formales. Se inv
 - [[wiki/english/subordinate-clause.md|Cláusulas Subordinadas]]
 - [[wiki/english/verb-tenses/future-tenses.md|Los Tiempos Futuros en Inglés]]
 - [[wiki/english/verb-tenses/past-tenses.md|Los Cuatro Tiempos Pasados en Inglés]]
+- [[wiki/english/verb-tenses/present-tenses.md|Los Cuatro Tiempos Presentes en Inglés]]
 - [[wiki/english/inversion.md|Inversión (Inversion)]]
+- [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement (Concordancia Sujeto-Verbo)]]
 
 ## Fuentes
 

@@ -97,6 +97,19 @@ Mismo patrón que *hard/hardly*: *late* es adjetivo y adverbio de tiempo ("tarde
 > *The train arrived **late**.* (adverbio: llegó tarde)
 > ***Lately**, she has been working from home.* (recientemente)
 
+### most / most of / mostly
+
+Tres formas relacionadas pero con función y significado distintos:
+
+| Palabra | Función | Significado | Ejemplo |
+|---|---|---|---|
+| *most* / *most of* | Adjetivo (determinante de cantidad) | La mayoría, la mayor parte | ***Most** people like coffee.* / ***Most of** the students passed.* |
+| *most* | Adverbio (superlativo) | En el mayor grado | *This is the **most** popular option.* |
+| *mostly* | Adverbio | Principalmente, en general | *We **mostly** go to dance clubs on weekends.* |
+
+- ✗ *We mostly of the time go to dance clubs.* → ✅ *We **mostly** go to dance clubs.*
+- ✗ *Most students are the smart ones.* (si se quiere decir "los más inteligentes") → ✅ *The **most** intelligent students...* / distinto de ✅ ***Most** students are smart.* (la mayoría de los estudiantes)
+
 ## Errores frecuentes (TOEFL)
 
 *Adjetivo en vez de adverbio tras verbo de acción:*
@@ -143,7 +156,11 @@ Aquí "felt" describe un estado emocional (linking verb) → adjetivo *bad*, no 
 
 - [[wiki/english/parts-of-speech.md|Las 8 Partes de la Oración (Parts of Speech)]]
 - [[wiki/english/comparatives-superlatives.md|Comparativos y Superlativos]]
+- [[wiki/english/adjective-order.md|Orden de los Adjetivos (Adjective Order)]]
+- [[wiki/english/adverb-placement.md|Colocación de Adverbios (Adverb Placement)]]
 
 ## Fuentes
 
-[^1]: Conocimiento general de gramática inglesa aplicado a TOEFL ITP Structure and Written Expression — sin material fuente en `raw/`.
+[^1]: Preply — "How to Tell the Difference Between Adverbs and Adjectives" — `raw/english/adjective-adverb-confusion/How to Tell the Difference (Preply).md`
+[^2]: ProWritingAid — "Adverb-Adjective Confusion" — `raw/english/adjective-adverb-confusion/Adverb-Adjective Confusion (ProWritingAid).md`
+[^3]: Espresso English — "Confusing Words: Adjectives and Adverbs" — `raw/english/adjective-adverb-confusion/Confusing Words - Adjectives and Adverbs (Espresso English).md`

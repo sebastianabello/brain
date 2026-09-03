@@ -1,7 +1,7 @@
 ---
 title: El Sustantivo (Noun) — Definición y Tipos
 tags: [nouns, english, grammar]
-updated: 2026-06-29
+updated: 2026-09-02
 ---
 
 # El Sustantivo (Noun) — Definición y Tipos
@@ -44,6 +44,7 @@ El inglés clasifica los sustantivos según varios criterios (no excluyentes: un
 | Posesión | posesivo | [[wiki/english/nouns/possessive-nouns.md\|Sustantivos posesivos]] |
 | Aposición | apositivo | [[wiki/english/nouns/appositive-nouns.md\|Sustantivos apositivos]] |
 | Derivado de verbo | gerundio (*-ing* como sustantivo) | [[wiki/english/gerunds-and-infinitives.md\|Gerundios e Infinitivos]] |
+| Formación | compuesto (dos o más palabras) | [[wiki/english/nouns/compound-nouns.md\|Sustantivos compuestos]] |
 
 ### Sustantivos atributivos (attributive nouns)
 
@@ -57,9 +58,36 @@ Refieren a toda una clase de cosas (o personas, lugares…) en general. Pueden s
 
 > ***People** are resourceful.* — ***The printing press** revolutionized European society.*
 
+## Cómo identificar y formar sustantivos
+
+Ciertos **sufijos** son indicio fiable de que una palabra es (o se convirtió en) sustantivo:
+
+| Sufijo | Ejemplo | Traducción |
+|---|---|---|
+| -age | *language* | lenguaje |
+| -ance | *importance* | importancia |
+| -hood | *childhood* | niñez |
+| -ism | *nationalism* | nacionalismo |
+| -ist | *artist* | artista |
+| -itude | *multitude* | multitud |
+| -ment | *government* | gobierno |
+| -ness | *happiness* | felicidad |
+| -ship | *championship* | campeonato |
+| -tion / -sion | *station* | estación |
+
+Estos mismos sufijos son la base de la **nominalización** (*nominalisation*): formar un sustantivo a partir de un verbo o un adjetivo, muy usado en redacción académica para evitar repetir verbos y dar un tono más objetivo.
+
+- Verbo → sustantivo: *adapt → adaptation*, *conclude → conclusion*, *develop → development*, *discover → discovery*, *perform → performance*.
+- Adjetivo → sustantivo: *angry → anger*, *difficult → difficulty*, *happy → happiness*, *similar → similarity*.
+
+## Género gramatical
+
+A diferencia del español, el inglés **no tiene género gramatical**: no hay formas femeninas/masculinas para sustantivos, artículos o adjetivos (*the doctor* sirve para ambos géneros). Algunos sustantivos que antes marcaban un sexo específico migraron a formas neutras de uso estándar: *businessman → businessperson*, *fireman → firefighter*, *policeman → police officer*, *congressman → congressperson*. También existen propuestas de sustantivos neutros de género para mayor inclusión: *wife*/*husband → spouse*, *brother*/*sister → sibling*. Ver también el pronombre neutro *they* en [[wiki/english/parts-of-speech.md|Parts of Speech]].
+
 ## Ver también
 
 - [[wiki/english/parts-of-speech.md|Las 8 Partes de la Oración]]
+- [[wiki/english/nouns/compound-nouns.md|Sustantivos compuestos]]
 - [[wiki/english/nouns/common-proper-nouns.md|Sustantivos comunes y propios]]
 - [[wiki/english/nouns/concrete-abstract-nouns.md|Sustantivos concretos y abstractos]]
 - [[wiki/english/nouns/countable-uncountable-nouns.md|Sustantivos contables e incontables]]
@@ -73,3 +101,5 @@ Refieren a toda una clase de cosas (o personas, lugares…) en general. Pueden s
 ## Fuentes
 
 [^1]: "What Is a Noun? Definition, Types & Examples" — Scribbr — `raw/english/nouns/What Is a Noun?.md`
+[^2]: "Sustantivos en inglés, ¡conócelos aquí!" — British Council México — `raw/english/nouns/Sustantivos en inglés (British Council).md`
+[^3]: "Sustantivos en Inglés: Guía Completa" — Busuu — `raw/english/nouns/Sustantivos en inglés (Busuu).md`

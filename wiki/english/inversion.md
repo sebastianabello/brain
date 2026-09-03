@@ -108,6 +108,7 @@ La inversión se activa únicamente cuando el adverbio negativo/restrictivo es l
 - [[wiki/english/correlative-conjunctions.md|Conjunciones Correlativas]]
 - [[wiki/english/conditional-sentences.md|Conditional Sentences (Oraciones Condicionales)]]
 - [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement]]
+- [[wiki/english/parts-of-speech.md|Las 8 Partes de la Oración (Parts of Speech)]]
 
 ## Fuentes
 
