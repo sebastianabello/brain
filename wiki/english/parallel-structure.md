@@ -1,7 +1,7 @@
 ---
 title: Paralelismo y Estructura Paralela
 tags: [english, gramática]
-updated: 2026-06-28
+updated: 2026-09-02
 ---
 
 # Paralelismo y Estructura Paralela
@@ -97,6 +97,7 @@ Los encabezados que dividen un texto en secciones deben ser paralelos entre sí.
 - [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement]]
 - [[wiki/english/subordinate-clause.md|Cláusulas Subordinadas]]
 - [[wiki/english/verb-tenses/present-tenses.md|Los Cuatro Tiempos Presentes en Inglés]]
+- [[wiki/english/correlative-conjunctions.md|Conjunciones Correlativas (Correlative Conjunctions)]]
 
 ## Fuentes
 

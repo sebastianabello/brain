@@ -478,3 +478,25 @@
 - Actualizado: `wiki/english/gerunds-and-infinitives.md` [fusión — fuente `raw/english/nouns/Gerund.md`: nueva sección "El gerundio como sustantivo" (gerund phrase, gerundio vs. present participle, posesivo antes del gerundio, verbal nouns)]
 - Actualizado: `wiki/english/parts-of-speech.md` [cascada — enlaces a la nueva sección de nouns]
 - Actualizado: `wiki/index.md`
+
+---
+
+## [2026-09-02] ingest | Plan de estudio TOEFL ITP Structure (9 notas nuevas + MOC)
+
+- Nuevos artículos creados (conocimiento propio, sin fuente en `raw/`):
+  - `wiki/english/modal-verbs.md`
+  - `wiki/english/prepositions.md`
+  - `wiki/english/quantifiers.md`
+  - `wiki/english/comparatives-superlatives.md`
+  - `wiki/english/correlative-conjunctions.md`
+  - `wiki/english/adjective-adverb-confusion.md`
+  - `wiki/english/articles.md`
+  - `wiki/english/inversion.md`
+  - `wiki/english/also-too-either-neither.md`
+  - `wiki/english/MOC-TOEFL-Structure.md` (Map of Content, plan de estudio numerado con checkboxes)
+- Actualizado: `wiki/english/nouns/countable-uncountable-nouns.md` [cascada — enlace a quantifiers en Ver también]
+- Actualizado: `wiki/english/parallel-structure.md` [cascada — enlace a correlative-conjunctions en Ver también]
+- Actualizado: `wiki/english/nouns/common-proper-nouns.md` [cascada — enlace a articles en Ver también]
+- Actualizado: `wiki/english/conditional-sentences.md` [cascada — enlace a inversion en Ver también]
+- Actualizado: `wiki/english/subject-verb-agreement.md` [cascada — enlaces a quantifiers y correlative-conjunctions en Ver también]
+- Actualizado: `wiki/index.md`

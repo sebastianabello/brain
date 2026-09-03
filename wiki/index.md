@@ -58,8 +58,18 @@
 - [[wiki/english/gerunds-and-infinitives.md|Gerundios e Infinitivos (Gerunds and Infinitives)]] - Qué son gerundios e infinitivos, sus funciones gramaticales, tabla de verbos por categoría (solo gerundio, solo infinitivo, ambos con y sin cambio de significado), formas especiales del infinitivo, frases infinitivas y el gerundio como sustantivo (gerund phrase, gerundio vs. present participle, posesivo antes del gerundio, verbal nouns). | 2026-06-29
 - [[wiki/english/conditional-sentences.md|Conditional Sentences (Oraciones Condicionales)]] - Los cuatro tipos de oraciones condicionales (zero, first, second, third), mixed conditionals e inverted conditionals: fórmulas, ejemplos y errores frecuentes en el TOEFL. | 2026-06-29
 - [[wiki/english/participial-phrases.md|Frases Participiales (Participial Phrases)]] - Qué es una frase participial y sus tres tipos (presente, pasado, perfecta); 4 reglas de posición y puntuación; restrictivas vs. no restrictivas; dangling/misplaced modifiers; diferencia con frases de gerundio. | 2026-06-29
+- [[wiki/english/modal-verbs.md|Verbos Modales (Modal Verbs)]] - Modales de obligación (must/have to), capacidad/permiso (can/could/may/might), consejo (should/shall/will/would) y modal perfect (must have, should have) con errores TOEFL de infinitivo tras el modal. | 2026-09-02
+- [[wiki/english/prepositions.md|Preposiciones (Prepositions)]] - Preposiciones de tiempo (in/on/at, for/since/during), lugar y dirección; pares fijos verbo/adjetivo + preposición (depend on, consist of); errores frecuentes TOEFL. | 2026-09-02
+- [[wiki/english/quantifiers.md|Cuantificadores (Quantifiers)]] - Concordancia obligatoria de much/many, few/little, fewer/less, a number of/the number of con sustantivos contables e incontables; some/any según polaridad. | 2026-09-02
+- [[wiki/english/comparatives-superlatives.md|Comparativos y Superlativos (Comparatives and Superlatives)]] - Formación regular (por número de sílabas) e irregular (good/better/best); estructuras as...as, the...the; errores de doble comparativo/superlativo (more bigger, most tallest). | 2026-09-02
+- [[wiki/english/correlative-conjunctions.md|Conjunciones Correlativas (Correlative Conjunctions)]] - Both...and, either...or, neither...nor, not only...but also y su exigencia de estructura paralela; concordancia verbal e inversión con not only al inicio. | 2026-09-02
+- [[wiki/english/adjective-adverb-confusion.md|Confusión Adjetivo/Adverbio (Adjective vs. Adverb Confusion)]] - Linking verbs (adjetivo) vs. verbos de acción (adverbio); pares clásicos good/well, bad/badly, quick/quickly, hard/hardly, late/lately. | 2026-09-02
+- [[wiki/english/articles.md|Artículos (Articles)]] - Uso de a/an/the, zero article, casos especiales de nombres propios, sustantivos incontables, superlativos e instituciones (school vs. the school). | 2026-09-02
+- [[wiki/english/inversion.md|Inversión (Inversion)]] - Inversión sujeto-auxiliar tras adverbios negativos/restrictivos (never, rarely, not only, no sooner...than, hardly...when) y en condicionales formales sin "if". | 2026-09-02
+- [[wiki/english/also-too-either-neither.md|So / Too / Either / Neither — Concordancia con Acuerdo]] - Estructuras de acuerdo con inversión (So do I, Neither did she) y sin inversión (too, either); concordancia del auxiliar con el tiempo verbal original. | 2026-09-02
+- [[wiki/english/MOC-TOEFL-Structure.md|MOC - TOEFL Structure]] - Map of Content con plan de estudio numerado y checkboxes para TOEFL ITP Structure and Written Expression, organizado en 5 bloques temáticos. | 2026-09-02
 
 ---
 
-*Última actualización del índice: 2026-06-29*
+*Última actualización del índice: 2026-09-02*
 

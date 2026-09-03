@@ -1,7 +1,7 @@
 ---
 title: Sustantivos Contables e Incontables (Countable & Uncountable Nouns)
 tags: [nouns, english, grammar]
-updated: 2026-06-29
+updated: 2026-09-02
 ---
 
 # Sustantivos Contables e Incontables (Countable & Uncountable Nouns)
@@ -65,6 +65,7 @@ Dos incontables notoriamente difíciles en escritura académica:
 - [[wiki/english/nouns/plural-nouns.md|Sustantivos plurales]]
 - [[wiki/english/nouns/concrete-abstract-nouns.md|Sustantivos concretos y abstractos]]
 - [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement]]
+- [[wiki/english/quantifiers.md|Cuantificadores (Quantifiers)]]
 
 ## Fuentes
 

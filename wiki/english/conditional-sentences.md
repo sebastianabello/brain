@@ -1,7 +1,7 @@
 ---
 title: Conditional Sentences (Oraciones Condicionales)
 tags: [english, grammar]
-updated: 2026-06-29
+updated: 2026-09-02
 ---
 
 # Conditional Sentences (Oraciones Condicionales)
@@ -109,6 +109,7 @@ Estructura más formal, propia de inglés escrito y situaciones formales. Se inv
 - [[wiki/english/subordinate-clause.md|Cláusulas Subordinadas]]
 - [[wiki/english/verb-tenses/future-tenses.md|Los Tiempos Futuros en Inglés]]
 - [[wiki/english/verb-tenses/past-tenses.md|Los Cuatro Tiempos Pasados en Inglés]]
+- [[wiki/english/inversion.md|Inversión (Inversion)]]
 
 ## Fuentes
 

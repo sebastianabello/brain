@@ -1,7 +1,7 @@
 ---
 title: Sustantivos Comunes y Propios (Common & Proper Nouns)
 tags: [nouns, english, grammar]
-updated: 2026-06-29
+updated: 2026-09-02
 ---
 
 # Sustantivos Comunes y Propios (Common & Proper Nouns)
@@ -56,6 +56,7 @@ Adjetivos derivados de sustantivos propios y, por tanto, capitalizados. Suelen d
 - [[wiki/english/nouns/concrete-abstract-nouns.md|Sustantivos concretos y abstractos]]
 - [[wiki/english/nouns/collective-nouns.md|Sustantivos colectivos]]
 - [[wiki/english/parts-of-speech.md|Las 8 Partes de la Oración]]
+- [[wiki/english/articles.md|Artículos (Articles)]]
 
 ## Fuentes
 

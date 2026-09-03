@@ -1,7 +1,7 @@
 ---
 title: Subject-Verb Agreement (Concordancia Sujeto-Verbo)
 tags: [english, grammar]
-updated: 2026-06-28
+updated: 2026-09-02
 ---
 
 # Subject-Verb Agreement (Concordancia Sujeto-Verbo)
@@ -273,6 +273,8 @@ Los errores de concordancia (concord errors) raramente afectan el significado, p
 
 - [[wiki/english/verb-tenses/present-tenses.md|Los Cuatro Tiempos Presentes en Inglés]]
 - [[wiki/english/pronoun-agreement.md|Pronombre: Concordancia y Referencia]]
+- [[wiki/english/quantifiers.md|Cuantificadores (Quantifiers)]]
+- [[wiki/english/correlative-conjunctions.md|Conjunciones Correlativas]]
 
 ## Fuentes
 
