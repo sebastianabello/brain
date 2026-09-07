@@ -98,11 +98,36 @@ Condición permanente en el presente (característica general) con resultado en 
 
 **Técnica de verificación:** identificar el tiempo real de cada cláusula por separado. Si la condición habla del pasado pero el resultado describe el presente, no es tipo 3 puro — es mixed[^1]. Este es uno de los puntos donde el TOEFL distingue a estudiantes de nivel B2+ de los de B1; el error más común es aplicar mecánicamente la fórmula del tipo 2 o 3 sin notar que los dos tiempos de la oración son diferentes[^1].
 
+## Alternativas a "if"
+
+Varias expresiones pueden sustituir a *if* para matizar el tipo de condición. Todas mantienen la misma lógica de tiempos verbales que el tipo de condicional correspondiente.
+
+| Expresión | Significado | Ejemplo |
+|---|---|---|
+| *unless* | "si no" / "excepto si" (negación implícita) | *I won't go on holiday **unless** I save some money.* (= if I don't save) |
+| *in case* | Prepararse para algo que podría pasar (no depende de que ocurra) | *I'll take my umbrella **in case** it rains.* |
+| *as long as / provided (that) / providing (that) / on condition (that) / only if* | Énfasis en la condición necesaria e indispensable | *I'll lend you the money **provided that** you pay me back next month.* |
+| *whether or not* | Verdadero en ambas alternativas — la condición no cambia el resultado | *I'll help him **whether or not** he needs me.* |
+| *even if* | Similar a "whether or not": énfasis en que algo ocurrirá de todos modos | ***Even if** you apologize, he'll never forgive you.* |
+| *suppose / supposing* | Al inicio de oración, para imaginar una situación ("¿y si...?") | ***Supposing** I got a job, I wouldn't be able to travel with you.* |
+
+> **Distinción clave — unless vs. even if:** *unless* introduce una condición negativa específica ("si X no sucede"); *even if* indica que el resultado se mantiene **sin importar** si la condición sucede o no. No son intercambiables: *"I won't go unless it stops raining"* ≠ *"I won't go even if it stops raining"* (significados opuestos).
+
+> **No usar "not" con unless:** como *unless* ya equivale a "if...not", agregar una negación adicional es redundante — ver también el mismo error con "if...not" en [[wiki/english/subordinate-clause.md|Cláusulas Subordinadas]].
+> - ✗ *Unless he **doesn't** apologize...*
+> - ✓ *Unless he apologizes...*
+
 ## Inverted conditionals
 
-Estructura más formal, propia de inglés escrito y situaciones formales. Se invierte el sujeto y el auxiliar en la cláusula con *if*, y se omite "if"[^2].
+Estructura más formal, propia de inglés escrito y situaciones formales. Se invierte el sujeto y el auxiliar en la cláusula con *if*, y se omite "if"[^2]. Aplica a los tres tipos numerados, no solo al tercero:
 
-- *Had I known (en vez de "If I had known"), I would have acted differently.*
+| Tipo | Fórmula invertida | Ejemplo |
+|---|---|---|
+| First | **Should** + sujeto + verbo base *(...) * | ***Should you need** help, call me.* (= If you need help...) |
+| Second | **Were** + sujeto (+ to + verbo base) | ***Were I** the director, I would implement stricter regulations.* / ***Were she to apply**, she would get the job.* |
+| Third | **Had** + sujeto + participio pasado | ***Had I known**, I would have acted differently.* |
+
+> La inversión del *first conditional* con *should* es la menos común de las tres y suele sonar más formal/literaria que las otras. La del *second conditional* con *were* es la más natural y frecuente en registro formal escrito.
 
 ## Ver también
 
@@ -112,8 +137,11 @@ Estructura más formal, propia de inglés escrito y situaciones formales. Se inv
 - [[wiki/english/verb-tenses/present-tenses.md|Los Cuatro Tiempos Presentes en Inglés]]
 - [[wiki/english/inversion.md|Inversión (Inversion)]]
 - [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement (Concordancia Sujeto-Verbo)]]
+- [[wiki/english/modal-verbs.md|Verbos Modales (Modal Verbs)]]
 
 ## Fuentes
 
 [^1]: Notas TOEFL sobre los 4 tipos de oraciones condicionales y mixed conditionals — `raw/english/conditional-sentences/conditional sentenses.md`
 [^2]: Grammarly — "The 4 Types of Conditional Sentences" (incluye inverted conditionals) — `raw/english/conditional-sentences/The 4 Types of Conditional Sentences.md`
+[^3]: British Council LearnEnglish — "Conditionals: zero, first and second" — `raw/english/conditional-sentences/Conditionals zero first and second (British Council).md`
+[^4]: Test-English — "Unless, even if, provided, as long as, etc.: Other expressions in conditionals" — `raw/english/conditional-sentences/Other expressions in conditionals (Test-English).md`

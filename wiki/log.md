@@ -568,3 +568,67 @@
 - Actualizado: `wiki/english/subject-verb-agreement.md` [cascada — enlace a adverb-placement en Ver también]
 - Actualizado: `wiki/english/MOC-TOEFL-Structure.md` (2.5 marcado como creado — bloque 2 "Modificadores" completo)
 - Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Verbos Modales (Modal Verbs)
+- Actualizado: `wiki/english/modal-verbs.md` (semi-modales, formas progresivas modal+be+V-ing, nuevos errores frecuentes: "ought have" y "willn't")
+- Actualizado: `wiki/english/passive-voice.md` [cascada — enlace a modal-verbs en Ver también]
+- Actualizado: `wiki/english/conditional-sentences.md` [cascada — enlace a modal-verbs en Ver también]
+- Actualizado: `wiki/index.md`
+- Nota: no se pudo obtener https://www.britishcouncil.org.mx/blog/modal-verbs (timeout en WebFetch; extensión de Chrome no conectada); se procedió con las 2 fuentes restantes (Preply, EF).
+
+## [2026-09-02] ingest | Voz Pasiva (Passive Voice)
+- Actualizado: `wiki/english/passive-voice.md` (filas future perfect y present perfect continuous en tabla de tiempos, razón de uso "reorganizar información/sujeto largo", alternativas informales they/you genérico)
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Gerundios e Infinitivos (Gerunds and Infinitives)
+- Actualizado: `wiki/english/gerunds-and-infinitives.md` (reglas ortográficas de formación del gerundio, formas pasivas/perfectas del gerundio, infinitivo perfecto y perfecto progresivo, "warn" agregado a verbos con actor)
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Preposiciones (Prepositions)
+- Actualizado: `wiki/english/prepositions.md` (preposición vs. adverbio, preposiciones simples/compuestas, matices BrE/AmE y excepciones de lugar, nueva sección completa "To vs. for")
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Conjunciones Correlativas (Correlative Conjunctions)
+- Actualizado: `wiki/english/correlative-conjunctions.md` (parejas adicionales: whether...or, such...that, rather...than, no sooner...than, hardly...when; concordancia pronominal, uso de comas, error de doble negación con neither...nor)
+- Actualizado: `wiki/english/pronoun-agreement.md` [cascada — enlace a correlative-conjunctions en Ver también]
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Paralelismo y Estructura Paralela (Parallel Structure)
+- Actualizado: `wiki/english/parallel-structure.md` (regla de consistencia de voz activa/pasiva en cláusulas paralelas, nueva sección "Cómo detectar rupturas de paralelismo")
+- Actualizado: `wiki/index.md`
+- Nota: scribbr.com/sentence-structure/parallelism/ devolvió 403 (WebFetch); PDF de CGU leído localmente vía Read tool y copiado a raw/.
+
+## [2026-09-02] ingest | Paralelismo y Estructura Paralela (Parallel Structure) — reintento scribbr
+- Reintento vía extensión de Chrome: scribbr.com/sentence-structure/parallelism/ obtenido con éxito, pero es la misma fuente ya ingerida como `raw/english/Parallel Structure & Parallelism.md` (contenido idéntico) — sin información nueva, no requiere cambios en `wiki/english/parallel-structure.md`.
+- Actualizado: `raw/english/Parallel Structure & Parallelism.md` (se agregó la URL de la fuente, antes ausente)
+
+## [2026-09-02] ingest | Cláusulas Subordinadas (Subordinate Clauses)
+- Actualizado: `wiki/english/subordinate-clause.md` (mnemotecnia I SAW A WABUB, error "will" tras conjunción temporal con enlace cruzado a future-tenses, contact clause / omisión de that-which-who como objeto en adjetivas, excepción de coma en cláusulas de contraste al final)
+- Actualizado: `wiki/index.md`
+- Nota: Twinkl no se pudo extraer con WebFetch (contenido vacío); se usó extensión de Chrome con éxito.
+
+## [2026-09-02] ingest | Cláusulas Subordinadas — profundización 4.4.1-4.4.4 (Nominales, Adjetivas, Adverbiales, Reducidas)
+- Búsqueda propia (WebSearch + WebFetch), sin URLs provistas por el usuario, para completar los cuatro subtemas del checklist.
+- Actualizado: `wiki/english/subordinate-clause.md` (nominales: pronombres relativos indefinidos, objeto indirecto, complemento del predicado; adjetivas: variante dialectal BrE que/which; adverbiales: categorías nuevas lugar/modo/comparación con ejemplos)
+- Actualizado: `wiki/english/comparatives-superlatives.md` [cascada — enlace a subordinate-clause en Ver también]
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Frases Participiales (Participial Phrases)
+- Búsqueda propia (WebSearch + WebFetch), sin URLs provistas por el usuario.
+- Actualizado: `wiki/english/participial-phrases.md` (nueva sección "Frase participial vs. frase absoluta (absolute phrase)": estructura, tipos, tabla comparativa, omisión de "being")
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Conditional Sentences (Oraciones Condicionales)
+- Búsqueda propia (WebSearch + WebFetch, con extensión de Chrome para test-english.com tras 403 en WebFetch), sin URLs provistas por el usuario.
+- Actualizado: `wiki/english/conditional-sentences.md` (nueva sección "Alternativas a 'if'": unless, in case, as long as/provided/on condition/only if, whether or not, even if, suppose/supposing; sección "Inverted conditionals" ampliada de solo tercer tipo a los tres tipos numerados con should/were/had)
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | Inversión (Inversion)
+- Búsqueda propia (WebSearch + WebFetch), sin URLs provistas por el usuario.
+- Actualizado: `wiki/english/inversion.md` (nuevos disparadores nowhere/in no way/on no account; nueva sección "Inversión con so...that / such...that"; nueva sección "Inversión locativa" con adverbios de lugar, here comes/there goes y excepción de pronombres personales)
+- Actualizado: `wiki/index.md`
+
+## [2026-09-02] ingest | So / Too / Either / Neither — Concordancia con Acuerdo
+- Búsqueda propia (WebSearch + WebFetch), sin URLs provistas por el usuario.
+- Actualizado: `wiki/english/also-too-either-neither.md` (forma coloquial "Me too / Me neither" con pronombre objeto y ventaja de no requerir concordar tiempo verbal; lógica del "do" implícito para explicar so do I vs. so am I; nueva sección "So am I" (acuerdo) vs. "So I am" (confirmación))
+- Actualizado: `wiki/index.md`

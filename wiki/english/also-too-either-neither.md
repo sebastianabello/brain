@@ -56,6 +56,15 @@ Se usa para decir "yo tampoco" ante una afirmación negativa. También requiere 
 
 > **Regla de oro:** *too* y *so* corresponden a acuerdo con oraciones **afirmativas**; *either* y *neither/nor* corresponden a acuerdo con oraciones **negativas**. Nunca se mezcla *too* con una oración negativa ni *either* con una afirmativa.
 
+## Forma coloquial: Me too / Me neither
+
+En el habla informal, "Me too" y "Me neither" (también "Me either" en inglés americano informal) reemplazan por completo la estructura con inversión. Usan el **pronombre objeto** (*me*, no *I*), lo cual es gramaticalmente una excepción aceptada en el registro coloquial:
+
+> *I passed the test.* → **Me too.** (en vez de "So did I")
+> *I can't swim.* → **Me neither.** / **Me either.** (en vez de "Neither can I")
+
+**Ventaja práctica:** a diferencia de "So + auxiliar + subject" / "Neither + auxiliar + subject" (que exige identificar y concordar el auxiliar exacto con el tiempo verbal original), "Me too" / "Me neither" funciona igual sin importar el tiempo verbal de la oración original — presente, pasado, presente perfecto, etc. Por eso es la forma preferida en conversación espontánea, aunque **no es apropiada en registro formal o escrito** (y por lo tanto no se usa en el TOEFL Written Expression).
+
 ## Concordancia del auxiliar
 
 El auxiliar usado en la respuesta debe coincidir en **tiempo y forma** con el de la oración original — el mismo principio de [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement]] aplicado a la estructura elidida.
@@ -70,6 +79,8 @@ El auxiliar usado en la respuesta debe coincidir en **tiempo y forma** con el de
 
 > *She speaks French.* → **So does he.** (no "So speaks he")
 > *She spoke at the conference.* → **So did he.** (no "So spoke he")
+
+> **Por qué "does/did" y no "is/was":** toda oración con verbo léxico simple (no *be*) tiene un auxiliar **implícito**: "She speaks French" equivale lógicamente a "She **does** speak French". La respuesta de acuerdo simplemente hace explícito ese auxiliar oculto. Por eso "so do I" acompaña verbos de acción (*speak, work, like*), mientras que "so am I" acompaña *be* como verbo principal o las formas progresivas (*is/are + -ing*), donde el auxiliar ya es visible en la oración original.
 
 ## Errores frecuentes (TOEFL)
 
@@ -114,6 +125,17 @@ El original usa presente perfecto ("has finished"); la respuesta debe usar el mi
 
 "So" con inversión expresa acuerdo entre dos sujetos distintos ("yo también"); "so" sin inversión, en orden normal, expresa consecuencia o resultado. No deben combinarse sus estructuras.
 
+## "So am I" (acuerdo) vs. "So I am" (confirmación) — no son intercambiables
+
+Ambas mantienen el mismo sujeto y auxiliar, pero el **orden** cambia su función por completo:
+
+| Estructura | Función | Ejemplo |
+|---|---|---|
+| **So + auxiliar + sujeto** (con inversión) | Acuerdo entre dos sujetos distintos ("yo también") | *A: I'm thirsty. B: **So am I**.* (B también tiene sed) |
+| **So + sujeto + auxiliar** (sin inversión) | Confirmar/reconocer algo ya dicho sobre el **mismo** sujeto, a menudo con sorpresa o al notarlo recién | *A: You're covered in pencil shavings! B: Oh, **so I am**! I didn't notice.* (confirma: "es verdad, tienes razón") |
+
+> **Por qué se confunden:** la diferencia es sutil (solo el orden de dos palabras) pero el significado es distinto — la primera introduce un segundo sujeto que comparte la condición; la segunda reafirma, sobre el sujeto original, algo que otra persona acaba de señalar. "So I am" también aparece como muletilla enfática en inglés irlandés (*"I am very tired, so I am."*), uso que conviene evitar fuera de ese contexto. En el TOEFL, el foco de examen está casi siempre en la inversión de "So am I", no en esta variante de confirmación.
+
 ## Ver también
 
 - [[wiki/english/inversion.md|Inversión (Inversion)]]
@@ -123,3 +145,6 @@ El original usa presente perfecto ("has finished"); la respuesta debe usar el mi
 ## Fuentes
 
 [^1]: Conocimiento general de gramática inglesa aplicado a TOEFL ITP Structure and Written Expression — sin material fuente en `raw/`.
+[^2]: Espresso English — "So / Neither / Too - How to agree in English" — `raw/english/also-too-either-neither/So Neither Too - How to agree (Espresso English).md`
+[^3]: FixerGrammar — "So Do I vs So Am I — What's the Real Difference?" — `raw/english/also-too-either-neither/So Do I vs So Am I (FixerGrammar).md`
+[^4]: italki — Discusión "So I am vs. So am I" — `raw/english/also-too-either-neither/So I am vs So am I (italki).md`

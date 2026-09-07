@@ -46,6 +46,12 @@ El paralelismo aplica también a series de cláusulas dentro de una oración.
 |---|---|
 | The report card stated that the student often talked in class, that he bullied other students, and rarely finished his homework. | The report card stated that the student often talked in class, that he bullied other students, and that he rarely finished his homework. |
 
+> **Mantener la voz (activa/pasiva) consistente:** al encadenar cláusulas paralelas, un cambio de voz a mitad de la serie también rompe el paralelismo, incluso si la estructura sintáctica superficial parece correcta.
+
+| No paralelo (cambio de voz) | Paralelo (voz activa consistente) |
+|---|---|
+| *The salesman expected that he would present his product at the meeting, that there would be time for him to show his slide presentation, and that questions would be asked by prospective buyers.* | *The salesman expected that he would present his product at the meeting, that there would be time for him to show his slide presentation, and that prospective buyers would ask him questions.* |
+
 ### Listas tras dos puntos
 
 Una lista que sigue a dos puntos siempre debe tener elementos paralelos.
@@ -92,6 +98,14 @@ Los encabezados que dividen un texto en secciones deben ser paralelos entre sí.
 |---|---|
 | 1. Origin of homeopathy<br>2. Initial reception<br>3. Rising to popularity in the 19th century<br>4. Recent studies show lack of evidence | 1. Origin of homeopathy<br>2. Initial reception<br>3. Rise to popularity in the 19th century<br>4. Lack of evidence in recent studies |
 
+## Cómo detectar rupturas de paralelismo
+
+Tres técnicas prácticas de revisión:
+
+1. **Pausar en cada *and* / *or*:** cada vez que aparezca una de estas conjunciones en una serie o par, comprobar que los elementos a ambos lados tienen la misma forma gramatical.
+2. **Alinear los elementos verticalmente:** al revisar una lista o serie larga, escribir cada elemento en su propia línea facilita ver a simple vista si todos comparten estructura.
+3. **Escuchar el ritmo:** una serie paralela genera un patrón sonoro repetitivo y equilibrado al leerla en voz alta; una ruptura de paralelismo suele "sonar mal" incluso antes de identificar la razón gramatical exacta.
+
 ## Ver también
 
 - [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement]]
@@ -102,3 +116,5 @@ Los encabezados que dividen un texto en secciones deben ser paralelos entre sí.
 ## Fuentes
 
 [^1]: Parallel Structure & Parallelism — `raw/english/Parallel Structure & Parallelism.md`
+[^2]: Purdue OWL — "Parallel Structure" — `raw/english/parallel-structure/Parallel Structure (Purdue OWL).md`
+[^3]: CGU Writing & Rhetoric Center — "Grammar Quickies: Parallel Structure" (PDF) — `raw/english/parallel-structure/Grammar-Quickies-Parallel-Structure.pdf`

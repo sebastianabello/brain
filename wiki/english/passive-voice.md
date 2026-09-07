@@ -1,7 +1,7 @@
 ---
 title: Voz Pasiva (Passive Voice)
 tags: [english, gramática]
-updated: 2026-06-28
+updated: 2026-09-02
 ---
 
 # Voz Pasiva (Passive Voice)
@@ -30,14 +30,18 @@ El tiempo verbal lo marca siempre el auxiliar *to be*, no el participio.
 | Simple past | was/were + pp | *The house **was cleaned** yesterday.* |
 | Past continuous | was/were being + pp | *The house **was being cleaned** last week.* |
 | Present perfect | has/have been + pp | *The house **has been cleaned** since you left.* |
+| Present perfect continuous | has/have been being + pp | *The house **has been being cleaned** all morning.* |
 | Past perfect | had been + pp | *The house **had been cleaned** before they arrived.* |
 | Future (will) | will be + pp | *The house **will be cleaned** next week.* |
 | Future continuous | will be being + pp | *The house **will be being cleaned** tomorrow.* |
+| Future perfect | will have been + pp | *The house **will have been cleaned** by the time you arrive.* |
 | Present conditional | would be + pp | *The house **would be cleaned** if they had visitors.* |
 | Past conditional | would have been + pp | *The house **would have been cleaned** if it had been dirty.* |
 | Modal / infinitivo | modal + be + pp | *The house **must be cleaned** before we arrive.* |
 
 *(pp = past participle)*
+
+> **Nota sobre formas raras:** el *present perfect continuous* pasivo (*has/have been being + pp*) es gramaticalmente válido pero suena forzado y casi nunca se usa en la práctica — se prefiere reformular con voz activa o con *present perfect* simple. Aparece en tablas de referencia por completitud, no porque sea de uso frecuente.
 
 ### Formas afirmativa, negativa e interrogativa
 
@@ -98,6 +102,24 @@ Sin embargo, usarla en exceso hace el texto pesado. Cambiar a activa mejora la c
 
 - *Mistakes **were made**.* (sin decir quién los cometió)
 - *It **has been decided** that the project will be cancelled.* (sin responsable directo)
+
+### 5. Razones estilísticas: reorganizar la información o simplificar un sujeto largo
+
+La pasiva permite colocar la información **nueva o más importante al final** de la oración, y simplificar sujetos activos demasiado largos o complejos convirtiéndolos en un agente opcional al final (o eliminándolos).
+
+> Activa (sujeto largo y torpe): *The committee responsible for reviewing all the applications submitted this year **rejected** my proposal.*
+> Pasiva (más manejable): *My proposal **was rejected** by the committee responsible for reviewing all the applications submitted this year.*
+
+## Alternativas informales a la pasiva
+
+En el habla informal, en vez de usar la voz pasiva para omitir al agente, es común usar **they** (como sujeto genérico e indefinido) o el **you** genérico:
+
+| Pasiva (formal/neutra) | Alternativa informal |
+|---|---|
+| *Parcels can be collected between 9 and 5.* | *You can collect parcels between 9 and 5.* |
+| *The scenery was based on the local landscape.* | *They based the scenery on the local landscape.* |
+
+Esto no es una forma pasiva en sí, sino un recurso paralelo con la misma función de restar protagonismo al agente específico — común en el registro hablado, menos frecuente en escritura formal.
 
 ## El agente: cuándo incluir "by"
 
@@ -266,7 +288,11 @@ La primera forma (objeto indirecto como sujeto) es generalmente más natural en 
 - [[wiki/english/verb-tenses/future-tenses.md|Los Tiempos Futuros en Inglés]]
 - [[wiki/english/subordinate-clause.md|Cláusulas Subordinadas]]
 - [[wiki/english/participial-phrases.md|Frases Participiales (Participial Phrases)]]
+- [[wiki/english/modal-verbs.md|Verbos Modales (Modal Verbs)]]
 
 ## Fuentes
 
 [^1]: Passive Voice — `raw/english/Passive voice.md`
+[^2]: British Council LearnEnglish Teens — "Passive forms" — `raw/english/passive-voice/Passive forms (British Council Teens).md`
+[^3]: EF — "Passive Voice" — `raw/english/passive-voice/Passive Voice (EF).md`
+[^4]: Perfect English Grammar — "The Passive Voice" — `raw/english/passive-voice/The Passive Voice (Perfect English Grammar).md`

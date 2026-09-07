@@ -132,6 +132,7 @@ Cuando se combinan dos estructuras comparativas en una misma oración (*as...as*
 - [[wiki/english/parallel-structure.md|Paralelismo y Estructura Paralela]]
 - [[wiki/english/parts-of-speech.md|Las 8 Partes de la Oración (Parts of Speech)]]
 - [[wiki/english/adjective-order.md|Orden de los Adjetivos (Adjective Order)]]
+- [[wiki/english/subordinate-clause.md|Cláusulas Subordinadas]]
 
 ## Fuentes
 

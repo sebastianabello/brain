@@ -56,6 +56,31 @@ Los **modal verbs** (*can, could, may, might, must, shall, should, will, would*)
 
 > **Nota TOEFL:** en preguntas de *Structure and Written Expression* rara vez se prueba *shall*; el foco está en *should* (recomendación) y en la diferencia *will* vs. *would* según el tiempo del condicional.
 
+## Semi-modales (semi-modal verbs)
+
+Además de los nueve modales verdaderos, existe un grupo de **semi-modales**: expresiones verbales que funcionan semánticamente como modales (obligación, consejo, hábito) pero que, a diferencia de los modales verdaderos, **sí llevan "to"** antes del verbo siguiente y algunos sí se conjugan.
+
+| Semi-modal | Uso | Ejemplo |
+|---|---|---|
+| *have to / have got to* | Obligación externa (ver tabla arriba) | *I have got to leave now.* |
+| *ought to* | Consejo/recomendación — equivalente casi exacto de *should* | *You ought to apologize.* |
+| *had better* | Consejo urgente, con implicación de consecuencia negativa si no se sigue | *You'd better call her before it's too late.* |
+| *used to* | Hábito o estado en el pasado que ya no ocurre | *I used to live in Madrid.* |
+| *need to* | Necesidad | *She needs to finish this today.* |
+| *be supposed to / be meant to* | Expectativa o intención (según lo acordado o esperado) | *The train is supposed to arrive at 6.* |
+
+> **Diferencia clave con los modales verdaderos:** *ought to* y *had better* se comportan casi como modales (no cambian de forma, no usan *do/does* para negativo), pero *ought to* sí lleva "to" (única excepción entre los semi-modales de esta lista que se acerca tanto a un modal verdadero) y *had better* no lo lleva (*you'd better go*, no *you'd better to go*) — hay que memorizar cada caso individualmente, no por regla general.
+
+## Formas progresivas: modal + be + V-ing
+
+Para expresar una acción **en curso** (deducción, posibilidad o permiso sobre algo que está sucediendo ahora mismo), se usa **modal + be + gerundio**:
+
+> *She **must be sleeping** — the lights are off.* (deducción sobre el presente)
+> *He **might be joking**; it's hard to tell.* (posibilidad sobre algo en curso)
+> *They **could be waiting** for us outside.*
+
+Es un error frecuente conjugar "be" o duplicar el gerundio: ✗ *He might **being play**.* → ✓ *He might **be playing**.*
+
 ## Modal Perfect: modal + have + past participle
 
 El **modal perfect** combina un modal con **have + participio pasado** para hablar de situaciones **pasadas**: certeza retrospectiva, deducción, obligación no cumplida o posibilidad no realizada. Es uno de los puntos más probados del TOEFL Structure porque exige reconocer que el verbo después del modal nunca es "has/had".
@@ -114,6 +139,22 @@ El componente auxiliar del modal perfect es siempre **have** en forma base, nunc
 
 *Must* no tiene forma de pasado propia; para obligación pasada se usa *had to*.
 
+*"to" faltante después de "ought" (el semi-modal que sí lo requiere):*
+
+| ✗ Incorrecto | ✓ Correcto |
+|---|---|
+| *I **ought have** texted her back.* | *I **ought to have** texted her back.* |
+
+A diferencia de los modales verdaderos, *ought* exige "to" antes del verbo (o de *have + participio* en su forma perfect) — es el semi-modal que más se confunde con los modales verdaderos precisamente por su comportamiento casi idéntico en todo lo demás.
+
+*Contracción negativa incorrecta de "will":*
+
+| ✗ Incorrecto | ✓ Correcto |
+|---|---|
+| *My key **willn't** work.* | *My key **won't** work.* |
+
+La contracción negativa de *will* es irregular: **won't**, no *willn't*.
+
 ## Ver también
 
 - [[wiki/english/passive-voice.md|Voz Pasiva (Passive Voice)]]
@@ -123,3 +164,5 @@ El componente auxiliar del modal perfect es siempre **have** en forma base, nunc
 ## Fuentes
 
 [^1]: Conocimiento general de gramática inglesa aplicado a TOEFL ITP Structure and Written Expression — sin material fuente en `raw/`.
+[^2]: Preply — "English Modal Verbs" — `raw/english/modal-verbs/English Modal Verbs (Preply).md`
+[^3]: EF English Live — "Modal Verbs" — `raw/english/modal-verbs/Modal Verbs (EF English Live).md`

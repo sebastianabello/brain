@@ -19,6 +19,20 @@ Las **correlative conjunctions** son pares de conectores que trabajan juntos par
 | *neither...nor* | Negación de dos elementos, ninguno verdadero | *He is **neither** rich **nor** famous.* |
 | *not only...but also* | Énfasis: el segundo elemento añade algo inesperado o más fuerte que el primero | *The plan is **not only** expensive **but also** unrealistic.* |
 
+## Otras parejas correlativas menos frecuentes
+
+Además de las cuatro parejas principales, existen otras correlativas que el TOEFL prueba con menor frecuencia pero que conviene reconocer:
+
+| Pareja | Significado | Ejemplo |
+|---|---|---|
+| *whether...or* | Alternativa en preguntas indirectas o incertidumbre | *I don't know **whether** she'll come **or** stay home.* |
+| *such...that* | Causa/resultado (intensidad que produce una consecuencia) | *It was **such** a long journey **that** everyone fell asleep.* |
+| *rather...than* | Preferencia entre dos opciones | *She would **rather** walk **than** drive.* |
+| *no sooner...than* | Secuencia temporal inmediata (una acción sigue a otra sin demora) | ***No sooner** had she arrived **than** the phone rang.* |
+| *hardly...when* | Secuencia temporal inmediata (equivalente a *no sooner...than*) | ***Hardly** had he sat down **when** the alarm went off.* |
+
+> **Regla de inversión compartida:** al igual que *not only* al inicio de oración, *no sooner* y *hardly* al inicio de oración exigen **inversión sujeto-auxiliar** en la primera cláusula — ver [[wiki/english/inversion.md|Inversión (Inversion)]]. Nótese además que ambas construcciones suelen combinarse con *had* (pasado perfecto): *no sooner had... than* / *hardly had... when*.
+
 ## La regla de oro: estructura paralela obligatoria
 
 Los dos elementos conectados por la correlativa deben tener **la misma categoría gramatical**: dos sustantivos, dos adjetivos, dos frases verbales, dos cláusulas, etc. Este es el punto que más se prueba en el TOEFL con estas estructuras.
@@ -43,6 +57,19 @@ Cuando estas correlativas unen dos sujetos, el verbo concuerda con el sujeto **m
 
 > *Neither the students **nor** the teacher **was** aware of the schedule change.* (concuerda con "teacher", singular)
 > *Neither the teacher **nor** the students **were** aware of the schedule change.* (concuerda con "students", plural)
+
+### Concordancia pronominal
+
+La misma lógica de proximidad aplica a los **pronombres** que retoman el sujeto compuesto: el pronombre concuerda en número con el elemento más cercano, no con el conjunto.
+
+> *Neither John nor **the girls** brought **their** books.* (pronombre "their" concuerda con "the girls", el elemento más cercano)
+
+### Uso de comas
+
+Por regla general, **no se coloca coma** entre los dos elementos conectados por una correlativa, salvo que cada elemento sea una **cláusula independiente** completa:
+
+> *She is **both** smart **and** funny.* (sin coma — dos adjetivos)
+> ***Not only** did he arrive late**,** but he also forgot the documents.* (con coma — dos cláusulas independientes)
 
 ## Inversión con "not only...but also" al inicio de oración
 
@@ -97,13 +124,24 @@ El verbo concuerda con el sujeto más cercano ("employees", plural), no con el p
 
 Cuando "not only" abre la oración, exige inversión auxiliar + sujeto en la primera cláusula.
 
+*Doble negación con "neither...nor":*
+
+| ✗ Incorrecto | ✓ Correcto |
+|---|---|
+| *He **didn't** like **neither** the food **nor** the service.* | *He liked **neither** the food **nor** the service.* |
+
+*Neither...nor* ya es negativo por sí mismo; combinarlo con un verbo negado (*didn't*) crea una doble negación agramatical en inglés estándar.
+
 ## Ver también
 
 - [[wiki/english/parallel-structure.md|Paralelismo y Estructura Paralela]]
 - [[wiki/english/inversion.md|Inversión (Inversion)]]
 - [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement]]
+- [[wiki/english/pronoun-agreement.md|Pronombre: Concordancia y Referencia (Pronoun Agreement & Reference)]]
 - [[wiki/english/also-too-either-neither.md|So / Too / Either / Neither: Concordancia con Acuerdo]]
 
 ## Fuentes
 
 [^1]: Conocimiento general de gramática inglesa aplicado a TOEFL ITP Structure and Written Expression — sin material fuente en `raw/`.
+[^2]: Grammarly — "Correlative Conjunctions" — `raw/english/correlative-conjunctions/Correlative Conjunctions (Grammarly).md`
+[^3]: Albert.io — "Correlative Conjunctions" — `raw/english/correlative-conjunctions/Correlative Conjunctions (Albert.io).md`

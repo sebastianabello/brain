@@ -1,7 +1,7 @@
 ---
 title: Gerundios e Infinitivos (Gerunds and Infinitives)
 tags: [english, grammar]
-updated: 2026-06-29
+updated: 2026-09-02
 ---
 
 # Gerundios e Infinitivos (Gerunds and Infinitives)
@@ -13,6 +13,25 @@ Los gerundios y los infinitivos son formas verbales no conjugadas que pueden fun
 El **gerund** se forma con el verbo en su forma base + el sufijo **-ing** (ej. _walking_, _thinking_, _eating_). Aunque se forma a partir de un verbo, funciona gramaticalmente como sustantivo.
 
 > **Nota:** La traducción al español no siempre es el gerundio. Frecuentemente equivale a un infinitivo: _Walking is good_ → "Caminar es bueno".
+
+### Reglas ortográficas de formación
+
+| Regla | Ejemplo |
+|---|---|
+| La mayoría de verbos: añadir **-ing** directamente | _play_ → **playing** |
+| Verbo termina en **-e** muda: eliminarla antes de añadir **-ing** | _slide_ → **sliding** |
+| Verbo termina en **-ie**: cambiar a **-y** antes de añadir **-ing** | _die_ → **dying**, _lie_ → **lying** |
+| Sílaba tónica final con patrón consonante-vocal-consonante: **duplicar** la consonante final | _beg_ → **begging**, _stop_ → **stopping** |
+
+### Formas pasivas y perfectas del gerundio
+
+El gerundio también puede llevar voz pasiva o aspecto perfecto, combinando ambos rasgos verbales con su función de sustantivo:
+
+| Forma | Estructura | Ejemplo |
+|---|---|---|
+| Pasiva | _being_ + participio pasado | _**Being accused** of plagiarism is serious._ |
+| Perfecta | _having_ + participio pasado | _**Having finished** the report, she left early._ |
+| Perfecta pasiva | _having been_ + participio pasado | _**Having been asked** to help, Matthew assisted._ |
 
 ### Funciones del gerund en la oración
 
@@ -101,6 +120,8 @@ Se usa la forma base del verbo sin _to_ en los siguientes contextos:
 |------|-----------|---------|
 | **Pasivo** | _to be_ + participio pasado | _I was hoping **to be given** an A._ |
 | **Continuo** | _to be_ + -ing | _I'd prefer **to be sleeping** right now._ |
+| **Perfecto** | _to have_ + participio pasado | _He appears **to have lost** his wallet._ (posibilidad/deducción sobre el pasado) |
+| **Perfecto progresivo** | _to have been_ + -ing | _Bullying is thought **to have been increasing** recently._ (acción continua en el pasado) |
 | **Split infinitive** | _to_ + adverbio + verbo | _to boldly go..._ (Star Trek) |
 
 > El split infinitive (adverbio entre _to_ y el verbo) es aceptado cuando moverlo genera ambigüedad o la frase suena peor.
@@ -221,7 +242,7 @@ Un infinitivo puede extenderse en una frase con modificadores, objetos o actores
 - _The students wanted the teacher **to cancel class**._ → actor: _the teacher_
 - _My parents asked me **to watch my sister**._ → actor: _me_ (caso objetivo)
 
-**Verbos que requieren actor:** _advise, allow, convince, encourage, force, hire, instruct, invite, order, permit, remind, teach, tell_
+**Verbos que requieren actor:** _advise, allow, convince, encourage, force, hire, instruct, invite, order, permit, remind, teach, tell, warn_
 
 **Verbos que no usan actor:** _agree, begin, continue, decide, fail, hesitate, hope, intend, learn, offer, plan, prefer, pretend, promise, refuse, remember, start, try_
 
@@ -266,3 +287,7 @@ Algunas palabras en *-ing* usadas como sustantivo **no** son gerundios verdadero
 [^3]: "Gerund and Infinitive: What's the Difference?" — `raw/english/gerunds-and-infinitives/Gerunds and Infinitives.md`
 [^4]: "What Are Infinitives and How Do You Use Them?" — Grammarly — `raw/english/gerunds-and-infinitives/What Are Infinitives and How Do You Use Them?.md`
 [^5]: "Gerund (gerundio como sustantivo, gerund phrase, present participle vs. gerund, verbal nouns)" — Scribbr — `raw/english/nouns/Gerund.md`
+[^6]: Preply — "English Gerund" — `raw/english/gerunds-and-infinitives/English Gerund (Preply).md`
+[^7]: Preply — "English Infinitive" — `raw/english/gerunds-and-infinitives/English Infinitive (Preply).md`
+[^8]: Ginger Software — "Gerunds and Infinitives" — `raw/english/gerunds-and-infinitives/Gerunds and Infinitives (Ginger).md`
+[^9]: Perfect English Grammar — "Gerunds and Infinitives" — `raw/english/gerunds-and-infinitives/Gerunds and Infinitives (Perfect English Grammar).md`

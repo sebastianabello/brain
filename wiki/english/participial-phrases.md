@@ -1,7 +1,7 @@
 ---
 title: Frases Participiales (Participial Phrases)
 tags: [english, gramática]
-updated: 2026-06-29
+updated: 2026-09-02
 ---
 
 # Frases Participiales (Participial Phrases)
@@ -105,6 +105,26 @@ Ambas usan la forma *-ing*, lo que genera confusión frecuente. La diferencia es
 
 **Truco para distinguirlas:** si la frase en *-ing* describe a otro sustantivo cercano en la oración, es participial. Si no hay ningún sustantivo relevante al que describa —porque ella misma actúa como sustantivo—, es una frase de gerundio. Ver [Gerundios e Infinitivos](gerunds-and-infinitives.md) para más detalle sobre el gerund como sustantivo.
 
+## Frase participial vs. frase absoluta (absolute phrase)
+
+Otra confusión frecuente: la **frase absoluta** también usa un participio, pero a diferencia de la frase participial, **no modifica un sustantivo específico de la oración** — modifica la **oración completa**, y trae su propio sujeto independiente.
+
+**Estructura:** *[sustantivo/pronombre] + [participio] + [modificadores opcionales]*
+
+> *__The engine sputtering violently__, the car rolled to a stop.*
+> *__Jack's homework completed__, he finally went to bed.* (participio pasado)
+> *__His voice barely audible__, the witness testified.* (sin participio, solo adjetivo — variante de frase absoluta)
+
+| | Frase participial | Frase absoluta |
+|---|---|---|
+| ¿A qué modifica? | A un sustantivo específico de la oración | A la oración completa |
+| ¿Tiene sujeto propio? | No — comparte el sujeto de la cláusula principal | Sí — trae su propio sustantivo/pronombre como sujeto |
+| Riesgo de error | *Dangling modifier* si no comparte sujeto con la cláusula principal | No aplica — es independiente por diseño |
+
+> **Cómo distinguirlas:** en *"The engine sputtering violently, the car rolled to a stop"*, "the engine" no es el sujeto de la oración principal ("the car" lo es) — por eso es una frase absoluta con su propio sujeto, no una frase participial que arriesgaría ser un dangling modifier.
+
+En la variante con participio presente, *being* a menudo se omite: *"The weather being nice, we went out"* y *"The weather nice, we went out"* son ambas formas válidas de frase absoluta.
+
 ## Relación con las cláusulas reducidas
 
 Las frases participiales son precisamente el resultado de **reducir** una cláusula adjetiva o adverbial (eliminar el pronombre relativo o el conector, y el verbo "to be" si existe). Ver [Cláusulas Subordinadas](subordinate-clause.md) para el proceso completo de reducción y el patrón de *dangling modifier* en adverb clauses reducidas, que sigue la misma lógica que la regla 1 de este artículo.
@@ -118,3 +138,4 @@ Las frases participiales son precisamente el resultado de **reducir** una cláus
 ## Fuentes
 
 [^1]: "Participial Phrases: How They Work, With Examples" — Grammarly — `raw/english/Participial Phrases How They Work With Examples.md`
+[^2]: PrepEdu — "Absolute Phrases in English" — `raw/english/participial-phrases/Absolute Phrases in English (PrepEdu).md`

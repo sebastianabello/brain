@@ -11,6 +11,23 @@ Una **preposición** conecta un sustantivo, pronombre o frase nominal con el res
 > *She arrived **at** the airport **before** noon.*
 > *He is interested **in** learning Japanese.* (preposición + gerundio, no *to learn*)
 
+### Preposición vs. adverbio
+
+La misma palabra (*in, on, up, down, around...*) puede funcionar como preposición o como adverbio. La prueba es si va seguida de un objeto: si sí, es preposición; si la palabra modifica al verbo sin introducir un objeto, es adverbio.
+
+> *He went **in** the house.* → preposición (objeto: *the house*)
+> *He went **in**.* → adverbio (sin objeto, modifica *went*)
+
+### Preposiciones simples vs. compuestas
+
+| Tipo | Descripción | Ejemplos |
+|---|---|---|
+| **Simples** | Una sola palabra | *at, on, in, above, below, with, for* |
+| **Compuestas** (complex prepositions) | Combinaciones fijas de dos o más palabras que funcionan como una sola preposición | *in front of, out of, because of, due to, in spite of, instead of, in addition to, on top of, ahead of, apart from, thanks to, up to* |
+
+> *The car is parked **in front of** the house.*
+> *The flight was delayed **due to** bad weather.*
+
 ## Preposiciones de tiempo: in / on / at
 
 | Preposición | Uso | Ejemplos |
@@ -20,6 +37,8 @@ Una **preposición** conecta un sustantivo, pronombre o frase nominal con el res
 | *in* | Periodos más largos: meses, años, estaciones, siglos, partes del día (excepto *night*) | *in June, in 2024, in winter, in the morning* |
 
 > **Trampa TOEFL:** "in the morning/afternoon/evening" pero "**at** night". Es una excepción memorizada, no una regla derivable.
+
+> **Nota dialectal:** para referirse a fines de semana y festividades, el inglés británico admite *at* (*at the weekend, at Christmas*), mientras que el inglés americano prefiere *on* (*on the weekend, on Christmas*). Ambas formas se consideran correctas según la variante.
 
 ## for / since / during
 
@@ -39,6 +58,8 @@ Una **preposición** conecta un sustantivo, pronombre o frase nominal con el res
 | *on* | Superficie, líneas (calles, pisos, costas) | *on the table, on Main Street, on the second floor* |
 | *in* | Espacio delimitado, contenedor, área más amplia (ciudades, países) | *in the box, in London, in the kitchen* |
 
+> **Excepciones memorizadas:** *on* se usa también con nombres de calles (*on Grove Street*) y con ríos (*the restaurant is on the river*), aunque no sean superficies planas en sentido literal. Para edificios o áreas confinadas, tanto *at* como *in* son posibles: *at* para ubicación general (*I'll meet you at the library*), *in* para enfatizar que algo ocurre dentro del espacio (*I left my umbrella in the library*).
+
 ## Preposiciones de dirección/movimiento
 
 | Preposición | Uso | Ejemplo |
@@ -49,6 +70,25 @@ Una **preposición** conecta un sustantivo, pronombre o frase nominal con el res
 | *from* | Origen del movimiento | *The train departs **from** platform 3.* |
 | *through* | Movimiento atravesando un espacio | *They walked **through** the tunnel.* |
 | *across* | Movimiento de un lado a otro de una superficie | *She swam **across** the lake.* |
+
+## To vs. for
+
+Una de las confusiones más frecuentes para hablantes de español. La distinción depende del verbo y el contexto: **to** enfatiza la acción, la dirección o el propósito; **for** destaca el objeto, la razón o la situación.
+
+| Caso | *to* | *for* |
+|---|---|---|
+| **Razón/propósito** | Propósito de una acción (+ verbo) | Causa o motivo (+ sustantivo/gerundio) |
+| Ejemplo | *I came here **to talk** to you.* | *Jack was fired **for being** late.* |
+| **Destinatario** | Acción dirigida hacia alguien | Énfasis en la situación/beneficiario |
+| Ejemplo | *Can you give this **to her**?* | *This present is **for him**.* |
+| **Intención/petición** | *ask/tell + persona + to + verbo* | *ask + persona + for + sustantivo* |
+| Ejemplo | *Ask John **to send** me the file.* | *Ask John **for** the file.* |
+| **Método vs. requisito** | Explica cómo lograr algo (+ verbo) | Enumera lo necesario (+ sustantivo) |
+| Ejemplo | ***To make** a perfect cake, use my grandma's secret recipe.* | ***For** a perfect cake you need patience, imagination and quality ingredients.* |
+| **Invitaciones** | Evento específico y puntual | Evento habitual o genérico |
+| Ejemplo | *I invited my friend **to a party**.* | *My husband invited me **for dinner**.* |
+
+> **Estrategia:** ante la duda entre *to* y *for*, primero identificar el verbo y qué tipo de complemento le sigue (¿otro verbo o un sustantivo?) — la elección casi nunca es arbitraria una vez que se ubica el patrón.
 
 ## Verbo + preposición fija (dependent prepositions)
 
@@ -133,3 +173,7 @@ Toda preposición debe ir seguida de sustantivo, pronombre o gerundio — nunca 
 ## Fuentes
 
 [^1]: Conocimiento general de gramática inglesa aplicado a TOEFL ITP Structure and Written Expression — sin material fuente en `raw/`.
+[^2]: Preply — "Lista de preposiciones en inglés" — `raw/english/prepositions/Lista de preposiciones (Preply).md`
+[^3]: Preply — "Preposiciones en inglés (in, on, at)" — `raw/english/prepositions/Preposiciones en inglés - in on at (Preply).md`
+[^4]: Preply — "Diferencias entre to y for" — `raw/english/prepositions/Diferencias entre to y for (Preply).md`
+[^5]: Pacho8a — "Preposiciones en inglés" — `raw/english/prepositions/Preposiciones en inglés (Pacho8a).md`

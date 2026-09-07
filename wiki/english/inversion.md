@@ -27,6 +27,8 @@ Cuando un adverbio o frase adverbial de sentido **negativo o restrictivo** se co
 | *Under no circumstances* | ***Under no circumstances should** you share this password.* |
 | *Little* | ***Little did** he know that the offer would change his life.* |
 | *Only after / Only when / Only by* | ***Only after** much debate **did** the board approve the merger.* |
+| *Nowhere* | ***Nowhere will** you find a better deal than this one.* |
+| *In no way / On no account* | ***In no way does** this justify his behavior.* / ***On no account should** you open that door.* |
 
 ## Cómo construir la inversión paso a paso
 
@@ -48,6 +50,35 @@ Estas estructuras narran dos eventos consecutivos casi inmediatos y requieren in
 > *Hardly **had** she **finished** speaking **when** the audience began to applaud.*
 
 > **Nota TOEFL:** *no sooner* se empareja obligatoriamente con *than* (no con *when*); *hardly/scarcely* se emparejan con *when* (no con *than*). Es un punto de examen frecuente.
+
+## Inversión con "so...that" / "such...that"
+
+Cuando *so + adjetivo/adverbio* o *such + (a/an) + sustantivo* se coloca al inicio de la oración para dar énfasis, la cláusula principal exige inversión (igual mecanismo que con los adverbios negativos):
+
+> *The sunset was so beautiful that everyone stopped to watch.* (orden normal)
+> ***So beautiful was** the sunset **that** everyone stopped to watch.* (inversión enfática)
+> ***So quickly did** he run **that** no one could catch him.*
+> ***Such was** her determination **that** nothing could stop her.*
+
+Esta construcción está directamente relacionada con las adverb clauses de resultado (*so...that / such...that*) — ver [[wiki/english/subordinate-clause.md|Cláusulas Subordinadas]]; la inversión es simplemente la versión enfática/formal de la misma estructura.
+
+## Inversión locativa (place adverbials)
+
+Cuando una frase adverbial de **lugar** encabeza la oración (registro formal/literario), sujeto y verbo también se invierten — pero aquí no se inserta *do/does/did*; el verbo principal simplemente pasa antes del sujeto:
+
+> *Down the hill **rolled the children**.*
+> *Round the corner **was a nice café**.*
+> *On the table **was all the money** we had lost.*
+
+**Uso coloquial — "Here comes" / "There goes":** el mismo patrón aparece en el habla cotidiana con *here* y *there* para señalar movimiento hacia o desde el hablante, o para anunciar que algo está a punto de pasar:
+
+> *Here **comes the bus**.*
+> *There **goes Sally**.*
+
+> **Excepción crítica — pronombres personales:** si el sujeto es un pronombre personal, **no hay inversión**; el orden vuelve a ser sujeto + verbo:
+> - ✓ *Here **it comes**.* / ✗ *Here comes it.*
+> - ✓ *There **she goes**.* / ✗ *There goes she.*
+> - ✓ *Here **it is**.* / ✗ *Here is it.*
 
 ## Inversión con condicionales formales (sin "if")
 
@@ -113,3 +144,5 @@ La inversión se activa únicamente cuando el adverbio negativo/restrictivo es l
 ## Fuentes
 
 [^1]: Conocimiento general de gramática inglesa aplicado a TOEFL ITP Structure and Written Expression — sin material fuente en `raw/`.
+[^2]: Grammaring — "Subject-Verb Inversion After Place Adverbials" — `raw/english/inversion/Subject-Verb Inversion After Place Adverbials (Grammaring).md`
+[^3]: Perfect English Grammar — "Inversion" — `raw/english/inversion/Inversion (Perfect English Grammar).md`

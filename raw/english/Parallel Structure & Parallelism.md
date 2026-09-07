@@ -1,3 +1,4 @@
+Fuente: https://www.scribbr.com/sentence-structure/parallelism/
 
 In English grammar, parallelism (also called parallel structure or parallel construction) is the repetition of the same grammatical form in two or more parts of a sentence.
 

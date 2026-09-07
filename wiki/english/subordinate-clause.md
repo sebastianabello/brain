@@ -1,7 +1,7 @@
 ---
 title: Cláusulas Subordinadas (Subordinate Clauses)
 tags: [english, gramática]
-updated: 2026-06-29
+updated: 2026-09-02
 ---
 
 # Cláusulas Subordinadas (Subordinate Clauses)
@@ -35,6 +35,7 @@ Actúan como sustantivos dentro de la oración: pueden ser sujeto, objeto direct
 | Afirmaciones | *that* |
 | Preguntas sí/no | *whether, if* |
 | Preguntas-wh | *what, who, which, when, where, why, how* |
+| Pronombres relativos indefinidos | *whoever, whomever, whatever, wherever, whenever, whichever* |
 
 **Ejemplos:**
 
@@ -55,6 +56,16 @@ La noun clause es el objeto de "confirmed". Muy frecuente después de verbos com
 
 *Con wh-word (pregunta indirecta):*
 > *Researchers are still investigating __how the virus mutates so rapidly__.*
+
+*Con pronombre relativo indefinido (objeto indirecto):*
+> *She told __whoever would listen__ her sad story.*
+
+La noun clause "whoever would listen" es el objeto indirecto de "told". Estos pronombres (*whoever, whatever, wherever...*) introducen noun clauses con sentido de "cualquiera que/lo que sea que", distinto de sus contrapartes wh- simples.
+
+*Como complemento del predicado (predicate nominative):*
+> *His reason for being late __was that his cat got sick__.*
+
+Tras un verbo copulativo (*be*), la noun clause completa el sujeto en vez de ser su objeto — cumple la misma función que un sustantivo predicativo.
 
 **Orden de palabras clave:** en preguntas indirectas el orden es sujeto + verbo, NO verbo + sujeto. "How does it mutate?" → "how it mutates".
 
@@ -144,6 +155,19 @@ La adjective clause debe ir inmediatamente después del sustantivo que modifica.
 > - ✓ *The book, **which** I read, was excellent.*
 > - ✗ *The book, **that** I read, was excellent.*
 
+> **Nota dialectal:** la regla "that = restrictiva / which = no restrictiva" es la convención del inglés americano formal (y la que exige el TOEFL). El inglés británico permite con más flexibilidad el uso de *which* también en cláusulas restrictivas (*the lamp which Aunt Betsy gave me*), aunque *that* sigue siendo aceptable. Para el TOEFL, seguir siempre la regla americana estricta.
+
+### Omisión del pronombre relativo como objeto (contact clause)
+
+Cuando el pronombre relativo (*that, which, who/whom*) funciona como **objeto** de una cláusula adjetiva **restrictiva**, puede omitirse por completo, sin necesidad de reducir el resto de la cláusula. El resultado se llama *contact clause*.
+
+| Con pronombre | Contact clause (sin pronombre) |
+|---|---|
+| *The book **that** I read was excellent.* | *The book I read was excellent.* |
+| *The man **whom** she married is a doctor.* | *The man she married is a doctor.* |
+
+> **Regla:** solo se omite si el pronombre es objeto. Si es sujeto de la cláusula, no puede omitirse: ✗ *The scientist discovered penicillin was Fleming.* → ✓ *The scientist **who** discovered penicillin was Fleming.* Tampoco se omite en cláusulas non-restrictive (con comas).
+
 ---
 
 ### Adverbiales (Adverb clauses)
@@ -160,6 +184,11 @@ Modifican verbos o cláusulas completas. Indican tiempo, causa, condición, cont
 | Contraste | *although, even though, whereas, while* |
 | Propósito | *so that, in order that* |
 | Resultado | *so...that, such...that* |
+| Lugar | *where, wherever* |
+| Modo | *as, as if, as though* |
+| Comparación | *as...as, than* |
+
+> **Mnemotécnica — I SAW A WABUB:** **I**f, **S**ince, **A**s, **W**hen, **A**lthough, **W**hile, **A**fter, **B**efore, **U**ntil, **B**ecause. Cubre las conjunciones subordinantes más comunes de tiempo, causa, condición y contraste en un solo acrónimo.
 
 **Ejemplos:**
 
@@ -190,6 +219,22 @@ La adverb clause de tiempo puede ir al inicio (seguida de coma) o al final (sin 
 
 Patrón: "so + adj/adv + that" / "such + noun phrase + that". Aparece con frecuencia en el TOEFL: *"so cold that...", "such a dramatic change that..."*
 
+*Lugar — where / wherever:*
+> *My son told me another fight broke out __where he eats lunch__.*
+
+"Where" (lugar específico) / "wherever" (cualquier lugar) — no confundir con la adjective clause de lugar (que modifica un sustantivo específico, ver arriba); aquí modifica al verbo de la cláusula principal.
+
+*Modo — as / as if / as though:*
+> *She addressed the crowd __as she had practiced in the mirror__.*
+> *He acted __as if__ nothing had happened.*
+
+*As if* / *as though* frecuentemente van seguidos de pasado (o *were*) para expresar algo hipotético o contrario a la realidad — ver [[wiki/english/subject-verb-agreement.md|Subject-Verb Agreement]] (subjuntivo con *were*).
+
+*Comparación — as...as / than:*
+> *Felix is __as good at video games as__ he is good at weight lifting.*
+
+Ver también [[wiki/english/comparatives-superlatives.md|Comparativos y Superlativos]] para la regla completa de comparaciones.
+
 **Errores frecuentes (TOEFL):**
 
 *Double connector (conector duplicado):*
@@ -211,6 +256,14 @@ Patrón: "so + adj/adv + that" / "such + noun phrase + that". Aparece con frecue
 - ✓ *Although **the economy was weak**, consumer spending increased.*
 
 > **Conectores que NO pueden combinarse (TOEFL Written Expression):** although...but / because...so / since...therefore / despite...but / even though...yet.
+
+*"will" después de conjunción temporal:*
+
+| ✗ Incorrecto | ✓ Correcto |
+|---|---|
+| *I will call you **when I will arrive**.* | *I will call you **when I arrive**.* |
+
+Tras conjunciones de tiempo (*when, while, before, after, until, as soon as*) que introducen un evento futuro, el verbo va en **presente simple**, nunca en futuro con *will* — ver la regla completa en [[wiki/english/verb-tenses/future-tenses.md|Los Tiempos Futuros en Inglés]].
 
 ---
 
@@ -330,6 +383,8 @@ La posición de la cláusula subordinada determina el uso de coma:
 | **Al inicio** (subordinada primero) | Coma después de la cláusula | *If I can find my wallet**,** we can all go for ice cream.* |
 | **Al final** (principal primero) | Sin coma | *We can all go for ice cream if I can find my wallet.* |
 
+> **Excepción — cláusulas de contraste:** con *although, though, even though, whereas*, es común usar coma **incluso cuando la subordinada va al final**, porque marca una pausa retórica de contraste: *The economy was weak, **although** consumer spending increased.* Esta excepción no aplica a cláusulas de tiempo, causa o condición en posición final.
+
 ## Cómo identificar una cláusula subordinada
 
 1. Buscar un grupo de palabras con **sujeto + verbo**.
@@ -344,6 +399,7 @@ La posición de la cláusula subordinada determina el uso de coma:
 - [[wiki/english/passive-voice.md|Voz Pasiva (Passive Voice)]]
 - [[wiki/english/participial-phrases.md|Frases Participiales (Participial Phrases)]]
 - [[wiki/english/verb-tenses/future-tenses.md|Los Tiempos Futuros en Inglés]]
+- [[wiki/english/comparatives-superlatives.md|Comparativos y Superlativos]]
 
 ## Fuentes
 
@@ -351,3 +407,10 @@ La posición de la cláusula subordinada determina el uso de coma:
 [^2]: How to Reduce Relative Clauses in English — `raw/english/Reduced Relative Clauses/How to Reduce Relative Clauses in English.md`
 [^3]: Types of Reduced Relative Clauses With Examples — `raw/english/Reduced Relative Clauses/Types of Reduced Relative Clauses With Examples.md`
 [^4]: Reduced Clauses (TOEFL, dangling modifiers) — `raw/english/Reduced Relative Clauses/reduced clauses.md`
+[^5]: Grammarly — "Subordinate Clause" — `raw/english/subordinate-clause/Subordinate Clause (Grammarly).md`
+[^6]: Twinkl Teaching Wiki — "What is a Subordinate Clause?" — `raw/english/subordinate-clause/What is a Subordinate Clause (Twinkl).md`
+[^7]: Lingua.edu — "Subordinate Clause" — `raw/english/subordinate-clause/Subordinate Clause (Lingua.edu).md`
+[^8]: Grammarly — "A Comprehensive Guide to Noun Clauses" — `raw/english/subordinate-clause/Noun Clauses (Grammarly).md`
+[^9]: Grammarly — "Restrictive and Nonrestrictive Clauses" — `raw/english/subordinate-clause/Restrictive and Nonrestrictive Clauses (Grammarly).md`
+[^10]: Grammarly — "Adverbial Clause" — `raw/english/subordinate-clause/Adverbial Clause (Grammarly).md`
+[^11]: Better TOEFL Scores — "Reducing Adverb Clauses" — `raw/english/subordinate-clause/Reducing Adverb Clauses (Better TOEFL Scores).md`
